@@ -1,7 +1,8 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
+
+import QuestionPanel from './QuestionPanel'
+import SelectPanel from './SelectPanel'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -12,12 +13,15 @@ function App() {
         Header
       </div>
       <div className="main_container">
-        <div className="question_panel">
-          Mock Question
-        </div>
-        <div className="select_panel">
-          Select question
-        </div>
+      <SelectPanel className="select_panel" />
+      <QuestionPanel
+        question="What is the capital of France?"
+        a="Paris"
+        b="London"
+        c="New York"
+        d="Berlin"
+        e="Beijing" 
+        className="question_panel" />
       </div>
     </div>
   )
