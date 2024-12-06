@@ -7,18 +7,15 @@ import SelectPanel from './SelectPanel'
 function App() {
   const [submit, setSubmit] = useState(false);
 
-  let submit_button_classes = ['submit_button submitted'];
-
   function handleSubmit() {
     if (submit == false) {
       setSubmit(true);
-      submit_button_classes = ['submit_button submitted'];
     }
-    if (submit == true) {
+    else if (submit == true) {
       setSubmit(false);
-      submit_button_classes = ['submit_button'];
     }
-}
+    console.log(submit)
+  }
 
 
   return (
@@ -40,10 +37,26 @@ function App() {
         explanation="Paris is the capital of France."
         showAnswer={true}
         />
-        <button className={submit_button_classes} id="submit_button" onClick={handleSubmit} >Submit</button>
+        <SubmitButton id="submit_button" click_function={handleSubmit} submit_state={submit} />
       </div>
       </div>
     </div>
+  )
+}
+
+function SubmitButton( { click_function, id, submit_state }) {
+    
+  let css_class = "";
+
+  if (submit_state == true) {
+    css_class = "submit_button submitted";
+  }
+  else {
+    css_class = "submit_button";
+  }
+
+  return (
+    <button className={css_class} id={id} onClick={click_function} >Submit</button>
   )
 }
 
