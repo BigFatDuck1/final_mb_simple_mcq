@@ -1,3 +1,5 @@
+/* eslint-disable react/prop-types */
+
 import { useState } from 'react'
 import './App.css'
 
@@ -24,20 +26,22 @@ function App() {
         Header
       </div>
       <div className="main_container">
-      <SelectPanel className="select_panel" />
-      <div className="question_pan">
-      <QuestionPanel
-        question="What is the capital of France?"
-        a="Paris"
-        b="London"
-        c="New York"
-        d="Berlin"
-        e="Beijing" 
-        correct="a"
-        explanation="Paris is the capital of France."
-        showAnswer={true}
-        />
-        <SubmitButton id="submit_button" click_function={handleSubmit} submit_state={submit} />
+      <div className="select_panel">
+        <SelectPanel />
+      </div>
+      <div className="question_panel">
+        <QuestionPanel
+          question="What is the capital of France?"
+          a="Paris"
+          b="London"
+          c="New York"
+          d="Berlin"
+          e="Beijing" 
+          correct="A"
+          explanation="Paris is the capital of France."
+          showAnswer={submit}
+          />
+          <SubmitButton id="submit_button" click_function={handleSubmit} submit_state={submit} />
       </div>
       </div>
     </div>
@@ -60,4 +64,4 @@ function SubmitButton( { click_function, id, submit_state }) {
   )
 }
 
-export default App
+export default App;

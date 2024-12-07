@@ -27,5 +27,9 @@
 }
 
 .submitted {
-  background: darkgreen;
+  background: navy;
+}
+
+.select_panel {
+  margin-right: 1rem;
 }

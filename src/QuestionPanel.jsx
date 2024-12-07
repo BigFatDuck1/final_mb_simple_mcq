@@ -1,5 +1,7 @@
-import react from 'react';
-import { useState } from 'react';
+//import { useState } from 'react';
+/* eslint-disable react/prop-types */
+
+
 
 function QuestionPanel({ question, a,b,c,d,e, correct, explanation, showAnswer }) {
 
@@ -19,7 +21,7 @@ function QuestionPanel({ question, a,b,c,d,e, correct, explanation, showAnswer }
             </div>
         )
     }
-    else {
+    else { //showAnswer == true
         return (
             <div>
                 <h2>{question}</h2>
@@ -30,6 +32,7 @@ function QuestionPanel({ question, a,b,c,d,e, correct, explanation, showAnswer }
                     <li>{d}</li>
                     <li>{e}</li>
                 </ol>
+                <h5>Correct Answer: {correct}</h5>
                 <p>{explanation}</p>
             </div>
         )
