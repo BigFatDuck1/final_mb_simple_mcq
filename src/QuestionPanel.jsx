@@ -22,7 +22,12 @@ function QuestionPanel({ question, a,b,c,d,e, correct, explanation, showAnswer }
                     list_of_options.map((item) => {
                         let new_option =   
                         <li key={`option_${object_of_options[item]}`} >
-                            <input type="checkbox" name={`option_${object_of_options[item]}`} id={`option_${object_of_options[item]}`} />
+                            <input 
+                                type="checkbox" 
+                                name={`option_${object_of_options[item]}`} 
+                                id={`option_${object_of_options[item]}`} 
+                                onChange={() => console.log(document.getElementById(`option_${object_of_options[item]}`).checked)}
+                                />
                             <label htmlFor={`option_${object_of_options[item]}`} className="option_label">{item}</label>
                         </li>; 
                         return new_option;
