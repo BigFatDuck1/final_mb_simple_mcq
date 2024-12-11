@@ -6,20 +6,25 @@
 function QuestionPanel({ question, a,b,c,d,e, correct, explanation, showAnswer }) {
 
     // const [showAnswer, setShowAnswer] = useState(false);
-
     let list_of_options = [a,b,c,d,e];
+    let indices = ["A", "B", "C", "D", "E"];
+    let object_of_options = {};
+    let i = 0;
+    list_of_options.forEach((item) => {
+        object_of_options[item] = indices[i];
+        i++;
+    })
     return (
         <div>
             <h2>{question}</h2>
             <ol type="A">
                 {
                     list_of_options.map((item) => {
-                        let i = 0;
-                        let new_option =  
-                        <li key={i} >
-                            <input type="checkbox" name="checkbox" />
-                            {item}
-                        </li>; //TODO: add key properly
+                        let new_option =   
+                        <li key={`option_${object_of_options[item]}`} >
+                            <input type="checkbox" name={`option_${object_of_options[item]}`} id={`option_${object_of_options[item]}`} />
+                            <label htmlFor={`option_${object_of_options[item]}`} className="option_label">{item}</label>
+                        </li>; 
                         return new_option;
                     })
                 }
