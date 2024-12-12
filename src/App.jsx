@@ -7,7 +7,8 @@ import QuestionPanel from './QuestionPanel'
 import SelectPanel from './SelectPanel'
 
 function App() {
-  const [submit, setSubmit] = useState(false);
+  const [submit, setSubmit] = useState(false); //Whether the submit button is pressed (answer submitted)
+  const [answer, setAnswer] = useState("Selected"); //The answer selected by user i.e. A, B, C, D, E
 
   function handleSubmit() {
     if (submit == false) {
@@ -17,6 +18,23 @@ function App() {
       setSubmit(false);
     }
     console.log(submit)
+  }
+
+  function onCheckboxChange(element) {
+    //Set state
+    setAnswer(element);
+    console.log("1, ", element.checked);
+    //Uncheck all other options
+    let checkboxes = document.querySelectorAll('.answer_option');
+    checkboxes.forEach((item) => item != element ? item.checked = false : null);
+    //Check the selected option
+    if (element.checked == true) {
+      element.checked = true;
+    }
+    else if (element.checked == false) {
+      element.checked = false;
+    }
+    console.log("2, ", element.checked);
   }
 
 
@@ -40,9 +58,11 @@ function App() {
           correct="A"
           explanation="Paris is the capital of France."
           showAnswer={submit}
+          checkboxFunc={onCheckboxChange}
           />
           <SubmitButton id="submit_button" click_function={handleSubmit} submit_state={submit} />
       </div>
+      <h1>{answer.id}</h1>
       </div>
     </div>
   )

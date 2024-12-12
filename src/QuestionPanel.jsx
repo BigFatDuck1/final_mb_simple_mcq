@@ -3,7 +3,7 @@
 
 
 
-function QuestionPanel({ question, a,b,c,d,e, correct, explanation, showAnswer }) {
+function QuestionPanel({ question, a,b,c,d,e, correct, explanation, showAnswer, checkboxFunc }) {
 
     // const [showAnswer, setShowAnswer] = useState(false);
     let list_of_options = [a,b,c,d,e];
@@ -26,7 +26,8 @@ function QuestionPanel({ question, a,b,c,d,e, correct, explanation, showAnswer }
                                 type="checkbox" 
                                 name={`option_${object_of_options[item]}`} 
                                 id={`option_${object_of_options[item]}`} 
-                                onChange={() => console.log(document.getElementById(`option_${object_of_options[item]}`).checked)}
+                                onChange={() => checkboxFunc(document.getElementById(`option_${object_of_options[item]}`))}
+                                className="answer_option"
                                 />
                             <label htmlFor={`option_${object_of_options[item]}`} className="option_label">{item}</label>
                         </li>; 
