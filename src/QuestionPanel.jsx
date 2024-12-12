@@ -3,7 +3,7 @@
 
 
 
-function QuestionPanel({ question, a,b,c,d,e, correct, explanation, showAnswer, checkboxFunc }) {
+function QuestionPanel({ question, a,b,c,d,e, correct, explanation, showAnswer, userAnswer, checkboxFunc }) {
 
     // const [showAnswer, setShowAnswer] = useState(false);
     let list_of_options = [a,b,c,d,e];
@@ -38,7 +38,8 @@ function QuestionPanel({ question, a,b,c,d,e, correct, explanation, showAnswer, 
             {
                 showAnswer ? 
                 <div>
-                <h5>Correct Answer: {correct}</h5>
+                <h5>{userAnswer.slice(-1)} is {userAnswer == `option_${correct}` ? "correct!" : "incorrect!"}</h5>
+                <h5>The correct answer is {correct}</h5>
                 <p>{explanation}</p> 
                 </div>
                 : 
