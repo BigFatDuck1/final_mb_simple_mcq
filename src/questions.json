@@ -8,6 +8,9 @@
         "e":"Beijing", 
         "correct":"A",
         "explanation":"Paris is the capital of France.",
+        "subject": "Geography",
+        "topic": "Capitals",
+        "tags": ["France", "Capital"],
         "questionID": 1
     },
     "2":{
@@ -19,6 +22,9 @@
         "e":"Progestin therapy", 
         "correct":"C",
         "explanation":"The rapid increase in size is more suggestive of a malignant leiomyosarcoma than a benign fibroid (leiomyoma). Resection through hysterectomy is the best option and the histology of the mass should be confirmed.",
+        "subject": "OBGYN",
+        "topic": "Uterine fibroids",
+        "tags": ["fibroid", "leiomyosarcoma"],
         "questionID": 2
     }
 }
