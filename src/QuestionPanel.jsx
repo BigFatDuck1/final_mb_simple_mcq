@@ -43,7 +43,7 @@ function QuestionPanel({ question, a,b,c,d,e, correct, explanation, showAnswer, 
                 <p>{explanation}</p> 
                 </div>
                 : 
-                <div></div>
+                <></>
                 
             }
         </div>

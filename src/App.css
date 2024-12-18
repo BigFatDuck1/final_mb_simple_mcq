@@ -27,7 +27,8 @@
 }
 
 .submitted {
-  background: navy;
+  background: rgb(233, 168, 6);
+  color: black;
 }
 
 .select_panel {

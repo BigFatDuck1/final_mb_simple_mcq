@@ -1,0 +1,13 @@
+{
+    "1":{
+        "question":"What is the capital of France?",
+        "a":"Paris",
+        "b":"London",
+        "c":"New York",
+        "d":"Berlin",
+        "e":"Beijing", 
+        "correct":"A",
+        "explanation":"Paris is the capital of France.",
+        "questionID": 1
+    }
+}

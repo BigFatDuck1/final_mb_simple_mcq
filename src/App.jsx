@@ -2,6 +2,7 @@
 
 import { useState } from 'react'
 import './App.css'
+import questions from "./questions.json";
 
 import QuestionPanel from './QuestionPanel'
 import SelectPanel from './SelectPanel'
@@ -9,6 +10,16 @@ import SelectPanel from './SelectPanel'
 function App() {
   const [submit, setSubmit] = useState(false); //Whether the submit button is pressed (answer submitted)
   const [answer, setAnswer] = useState(""); //The answer selected by user i.e. A, B, C, D, E
+
+  async function fetchJSON() {
+    const request = new Request("./questions.json");
+    const response = await fetch(request);
+    const question_json = await response.json();
+    console.log(question_json);
+  }
+  fetchJSON();
+  console.log(questions);
+
 
   function handleSubmit() {
     if (submit == false) {
@@ -78,7 +89,7 @@ function SubmitButton( { click_function, id, submit_state }) {
   }
 
   return (
-    <button className={css_class} id={id} onClick={click_function} >Submit</button>
+    <button className={css_class} id={id} onClick={click_function} >{submit_state ? "Reset" : "Submit"}</button>
   )
 }
 
