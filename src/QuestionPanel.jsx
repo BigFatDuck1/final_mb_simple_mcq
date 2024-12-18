@@ -16,7 +16,7 @@ function QuestionPanel({ question, a,b,c,d,e, correct, explanation, showAnswer, 
     })
     return (
         <div>
-            <h2>{question}</h2>
+            <h4>{question}</h4>
             <ol type="A">
                 {
                     list_of_options.map((item) => {

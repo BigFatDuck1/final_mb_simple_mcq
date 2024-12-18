@@ -9,5 +9,16 @@
         "correct":"A",
         "explanation":"Paris is the capital of France.",
         "questionID": 1
+    },
+    "2":{
+        "question":"A 65-year-old woman presents with menorrhagia - physical exam reveals a smooth, firm mass believed to be a fibroid in the suprapubic region. The patient noted that the size of the mass has grown by almost 7cm from last year. Which of the following is the best management?",
+        "a":"Continued careful observation",
+        "b":"Monitoring with ultrasound examinations",
+        "c":"Exploratory laparotomy with hysterectomy",
+        "d":"Gonadotropin-releasing hormone agonist",
+        "e":"Progestin therapy", 
+        "correct":"C",
+        "explanation":"The rapid increase in size is more suggestive of a malignant leiomyosarcoma than a benign fibroid (leiomyoma). Resection through hysterectomy is the best option and the histology of the mass should be confirmed.",
+        "questionID": 2
     }
 }

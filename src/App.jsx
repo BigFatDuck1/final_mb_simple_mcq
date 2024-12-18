@@ -10,16 +10,7 @@ import SelectPanel from './SelectPanel'
 function App() {
   const [submit, setSubmit] = useState(false); //Whether the submit button is pressed (answer submitted)
   const [answer, setAnswer] = useState(""); //The answer selected by user i.e. A, B, C, D, E
-
-  async function fetchJSON() {
-    const request = new Request("./questions.json");
-    const response = await fetch(request);
-    const question_json = await response.json();
-    console.log(question_json);
-  }
-  fetchJSON();
-  console.log(questions);
-
+  const [questionID, setQuestionID] = useState(2); //The current question ID
 
   function handleSubmit() {
     if (submit == false) {
@@ -27,6 +18,7 @@ function App() {
     }
     else if (submit == true) {
       setSubmit(false);
+      setQuestionID(2); //TODO: placeholder only, add feature later
     }
   }
 
@@ -45,6 +37,7 @@ function App() {
     }
   }
 
+  let current_question = questions[questionID];
 
   return (
     <div className='overall_box'>
@@ -57,14 +50,14 @@ function App() {
       </div>
       <div className="question_panel">
         <QuestionPanel
-          question="What is the capital of France?"
-          a="Paris"
-          b="London"
-          c="New York"
-          d="Berlin"
-          e="Beijing" 
-          correct="A"
-          explanation="Paris is the capital of France."
+          question={current_question.question}
+          a={current_question.a}
+          b={current_question.b}
+          c={current_question.c}
+          d={current_question.d}
+          e={current_question.e}
+          correct={current_question.correct}
+          explanation={current_question.explanation}
           showAnswer={submit}
           userAnswer={answer}
           checkboxFunc={onCheckboxChange}
