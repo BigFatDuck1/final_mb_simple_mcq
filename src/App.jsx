@@ -10,7 +10,7 @@ import SelectPanel from './SelectPanel'
 function App() {
   const [submit, setSubmit] = useState(false); //Whether the submit button is pressed (answer submitted)
   const [answer, setAnswer] = useState(""); //The answer selected by user i.e. A, B, C, D, E
-  const [questionID, setQuestionID] = useState(2); //The current question ID
+  const [questionID, setQuestionID] = useState(1); //The current question ID
 
   function handleSubmit() {
     if (submit == false) {
@@ -18,7 +18,7 @@ function App() {
     }
     else if (submit == true) {
       setSubmit(false);
-      setQuestionID(2); //TODO: placeholder only, add feature later
+      //setQuestionID(2); //TODO: placeholder only, add feature later
     }
   }
 
@@ -26,7 +26,7 @@ function App() {
     //Set state
     setAnswer(element.id);
     //Uncheck all other options
-    let checkboxes = document.querySelectorAll('.answer_option');
+    let checkboxes = document.querySelectorAll('.answer_options_input');
     checkboxes.forEach((item) => item != element ? item.checked = false : null);
     //Check the selected option
     if (element.checked == true) {
@@ -35,6 +35,16 @@ function App() {
     else if (element.checked == false) {
       element.checked = false;
     }
+  }
+
+  
+  function selectPanelClick(id) {
+    //Updates question panel
+    setQuestionID(id);
+    //Uncheck all checkboxes
+    let checkboxes = document.querySelectorAll('.answer_options_input');
+    checkboxes.forEach((item) => item.checked = false);
+    setAnswer("");
   }
 
   let current_question = questions[questionID];
@@ -46,7 +56,7 @@ function App() {
       </div>
       <div className="main_container">
       <div className="select_panel">
-        <SelectPanel />
+        <SelectPanel clickFunction={selectPanelClick} />
       </div>
       <div className="question_panel">
         <QuestionPanel

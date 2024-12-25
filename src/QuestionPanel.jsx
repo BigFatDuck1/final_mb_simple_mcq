@@ -17,18 +17,19 @@ function QuestionPanel({ question, a,b,c,d,e, correct, explanation, showAnswer, 
     return (
         <div>
             <h4>{question}</h4>
-            <ol type="A">
+            <ol className="answer_options">
                 {
                     list_of_options.map((item) => {
                         let new_option =   
-                        <li key={`option_${object_of_options[item]}`} >
+                        <li key={`option_${object_of_options[item]}`} className="answer_options_li" >
                             <input 
                                 type="checkbox" 
                                 name={`option_${object_of_options[item]}`} 
                                 id={`option_${object_of_options[item]}`} 
                                 onChange={() => checkboxFunc(document.getElementById(`option_${object_of_options[item]}`))}
-                                className="answer_option"
+                                className="answer_options_input"
                                 />
+                            <p className="abcde_label">{object_of_options[item]}</p>
                             <label htmlFor={`option_${object_of_options[item]}`} className="option_label">{item}</label>
                         </li>; 
                         return new_option;

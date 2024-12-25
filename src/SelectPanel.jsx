@@ -1,13 +1,13 @@
 //import React from "react";
 import questions from "./questions.json";
+/* eslint-disable react/prop-types */
 
 
-function SelectPanel() {
+function SelectPanel({ clickFunction }) {
     let questions_array = []; //Subject + Topic
     for (const id in questions) {
         questions_array.push(questions[id]);
     }
-    console.log(questions_array);
 
     return (
         <div>
@@ -16,7 +16,7 @@ function SelectPanel() {
                 {
                     questions_array.map((item) => {
                         let q_preview = 
-                        <li>
+                        <li className="question_preview_li" onClick={() => {clickFunction(item.questionID)}} key={`question_${item.questionID}_li`} >
                             <h4>{item.subject}</h4>
                             <p>{item.topic}</p>
                         </li>
