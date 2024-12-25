@@ -29,7 +29,7 @@ function QuestionPanel({ question, a,b,c,d,e, correct, explanation, showAnswer, 
                                 onChange={() => checkboxFunc(document.getElementById(`option_${object_of_options[item]}`))}
                                 className="answer_options_input"
                                 />
-                            <p className="abcde_label">{object_of_options[item]}</p>
+                            <p className="abcde_label">{object_of_options[item]}.</p>
                             <label htmlFor={`option_${object_of_options[item]}`} className="option_label">{item}</label>
                         </li>; 
                         return new_option;
