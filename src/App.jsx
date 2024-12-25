@@ -45,6 +45,8 @@ function App() {
     let checkboxes = document.querySelectorAll('.answer_options_input');
     checkboxes.forEach((item) => item.checked = false);
     setAnswer("");
+    //Reset submit button
+    setSubmit(false);
   }
 
   let current_question = questions[questionID];
