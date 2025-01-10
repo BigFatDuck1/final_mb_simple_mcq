@@ -80,3 +80,8 @@ p.abcde_label {
 .answer_options, label {
   cursor: pointer;
 }
+
+.select_panel {
+  height: 70vh;
+  overflow-y: scroll;
+}

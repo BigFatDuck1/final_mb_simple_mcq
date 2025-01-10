@@ -18,7 +18,6 @@ function App() {
     }
     else if (submit == true) {
       setSubmit(false);
-      //setQuestionID(2); //TODO: placeholder only, add feature later
     }
   }
 
@@ -54,7 +53,7 @@ function App() {
   return (
     <div className='overall_box'>
       <div className="header">
-        Header
+        <h3>Simple Best Answer</h3>
       </div>
       <div className="main_container">
       <div className="select_panel">
