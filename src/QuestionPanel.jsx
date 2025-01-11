@@ -39,7 +39,7 @@ function QuestionPanel({ question, a,b,c,d,e, correct, explanation, showAnswer, 
             {
                 showAnswer ? 
                 <div>
-                <h5 className={correctIncorrectState}>{userAnswer.slice(-1)} is {userAnswer == `option_${correct}` ? "CORRECT!" : "incorrect."}</h5>
+                <h5 className={correctIncorrectState}>{userAnswer.slice(-1)} is {userAnswer == `option_${correct}` ? "correct!" : "incorrect."}</h5>
                 {   //Updates state
                     userAnswer == `option_${correct}` ? 
                     setCorrectIncorrectFunc("correct") 
