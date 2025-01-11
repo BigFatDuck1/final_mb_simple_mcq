@@ -8,6 +8,8 @@ import med_q from "./med.json";
 import QuestionPanel from './QuestionPanel'
 import SelectPanel from './SelectPanel'
 
+let questions = med_q;
+
 function App() {
   const [submit, setSubmit] = useState(false); //Whether the submit button is pressed (answer submitted)
   const [answer, setAnswer] = useState(""); //The answer selected by user i.e. A, B, C, D, E
@@ -50,7 +52,7 @@ function App() {
     setSubmit(false);
   }
 
-  let current_question = med_q[questionID];
+  let current_question = questions[questionID];
 
   return (
     <div className='overall_box'>
