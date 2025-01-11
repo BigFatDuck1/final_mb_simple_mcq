@@ -64,6 +64,13 @@ li.question_preview_li:hover {
   color: cyan;
 }
 
+.correct {
+  color: greenyellow;
+}
+.incorrect {
+  color: rgb(239, 53, 53);
+}
+
 .answer_options_input {
   appearance: none;
 }

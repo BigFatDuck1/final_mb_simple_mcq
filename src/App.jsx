@@ -11,6 +11,7 @@ function App() {
   const [submit, setSubmit] = useState(false); //Whether the submit button is pressed (answer submitted)
   const [answer, setAnswer] = useState(""); //The answer selected by user i.e. A, B, C, D, E
   const [questionID, setQuestionID] = useState(1); //The current question ID
+  const [right_wrong, setCorrectIncorrect] = useState(""); //Whether the answer is correct or incorrect
 
   function handleSubmit() {
     if (submit == false) {
@@ -72,6 +73,8 @@ function App() {
           showAnswer={submit}
           userAnswer={answer}
           checkboxFunc={onCheckboxChange}
+          setCorrectIncorrectFunc={setCorrectIncorrect}
+          correctIncorrectState={right_wrong}
           />
           <SubmitButton id="submit_button" click_function={handleSubmit} submit_state={submit} />
       </div>
