@@ -2,7 +2,8 @@
 
 import { useState } from 'react'
 import './App.css'
-import questions from "./questions.json";
+//import questions from "./questions.json";
+import med_q from "./med.json";
 
 import QuestionPanel from './QuestionPanel'
 import SelectPanel from './SelectPanel'
@@ -49,7 +50,7 @@ function App() {
     setSubmit(false);
   }
 
-  let current_question = questions[questionID];
+  let current_question = med_q[questionID];
 
   return (
     <div className='overall_box'>

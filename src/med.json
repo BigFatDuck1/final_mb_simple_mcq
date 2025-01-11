@@ -1,0 +1,1600 @@
+{
+    "1": {
+        "question": "70/M type 2 DM with headache, HR 50/min, BP 160/100 mmHg, bilateral renal bruit. Which drug should be used to control hypertension? ",
+        "a": "Amlodipine",
+        "b": "Captopril",
+        "c": "Losartan",
+        "d": "Metoprolol",
+        "e": "Verapamil",
+        "correct": "A",
+        "explanation": "Bradycardia cannot use D and E Renal artery stenosis cannot use B and C",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 1
+    },
+    "2": {
+        "question": "A 22-year-old lady presents with recurrent syncope and diagnosed to suffer from vasovagal syncope on tilt table test. She fails to control her symptom with non-pharmacological intervention. Which of the following agent can be used to reduce symptom in this patient? ",
+        "a": "Beta-blocker",
+        "b": "Captopril",
+        "c": "Diuretic",
+        "d": "Diltiazem",
+        "e": "Midodrine",
+        "correct": "E",
+        "explanation": "Midodrine also treats orthostatic hypotension _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 2
+    },
+    "3": {
+        "question": "A 76-year-old lady presented with on and off palpitation. An ECG showed atrial fibrillation with ventricular rate of 78 bpm. Which of the following is a contraindication to the use of direct Xa inhibitor for stroke prevention in this patient? A. Body weight of 45 kg ",
+        "a": "",
+        "b": "Presence of mechanical prosthetic heart valve",
+        "c": "Presence of moderate aortic stenosis",
+        "d": "Prior history of bleeding gastric ulcer",
+        "e": "Renal impairment with creatinine clearance 30 mL/min",
+        "correct": "E",
+        "explanation": "_",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 3
+    },
+    "4": {
+        "question": "Patient on ARB. poorly controlled HT despite increase in dose of ARB. Which drug is likely the",
+        "a": "Fluconazole",
+        "b": "Erythromycin",
+        "c": "Acetaminophen",
+        "d": "MAOI",
+        "e": "",
+        "correct": "A",
+        "explanation": "cause?  pparently A, but online said will increase effect of Losartan Fluconazole (Diflucan) is a potent CYP2C9 inhibitor, impairing the conversion of losartan (Cozaar) to its active form. _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 4
+    },
+    "5": {
+        "question": "Which of the following signs is not associated with Graves\u2019 disease? ",
+        "a": "Proximal muscle weakness",
+        "b": "Splenomegaly",
+        "c": "Koilonychia",
+        "d": "Pretibial myxoedema",
+        "e": "Proptosis",
+        "correct": "C",
+        "explanation": "- hand signs are clubbing A - possible, also seen in thyrotoxicosis hypokalemic periodic paralysis B - lymphoproliferation from increased thyroid activity D - myxedema from anti-thyroid receptor antibodies stimulating fibroblasts E - eye sign _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 5
+    },
+    "6": {
+        "question": "GH-secreting adenoma, on pasireotide, why DM? ",
+        "a": "Inhibit glycolysis",
+        "b": "Inhibit GH secretion",
+        "c": "Decreased IGF-1",
+        "d": "Inhibit incretin response",
+        "e": "",
+        "correct": "D",
+        "explanation": "- GLP-1 agonist (liraglutide) is anti-DM, GLP-1 stimulates incretin, if no incretin then DM _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 6
+    },
+    "7": {
+        "question": "Concerning vitamin C, which is correct? ",
+        "a": "Effective in preventing common cold for patient aged above 65 as prophylaxis",
+        "b": "Effective in preventing common cold for children as prophylaxis",
+        "c": "Shorten the duration of common cold when taken as prophylaxis",
+        "d": "Shorten the duration of common if taken within 24 hours the onset common cold",
+        "e": "Reduce the severity of common cold if taken within 24 hours the onset of common cold",
+        "correct": "C",
+        "explanation": "- shorten, prophylaxis _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 7
+    },
+    "8": {
+        "question": "Which of the following drugs is not for motion sickness? ",
+        "a": "Hyoscine",
+        "b": "Betahistine",
+        "c": "Promethazine",
+        "d": "Chlorpromazine",
+        "e": "",
+        "correct": "D",
+        "explanation": "- it is an anti-psychotic _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 8
+    },
+    "9": {
+        "question": "35/M hotel chef consulted you in primary care for dizziness for one day and he wanted you to give him one day of sick leave. He did not have loss of consciousness, vertigo or other neurological symptoms. He gave a history of drinking 2 glasses of beer, 3 glasses of wine and a shot of whiskey last night at a dinner party. He mentioned drinking a few glasses of beer or wine with dinner every day but he did not think it is excessive. Which of the following is most sensitive for chronic excessive alcohol intake? ",
+        "a": "Blood haemoglobin",
+        "b": "GGT",
+        "c": "MCV",
+        "d": "ALT",
+        "e": "ALP",
+        "correct": "B",
+        "explanation": "- GGT _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 9
+    },
+    "10": {
+        "question": "The trivalent seasonal influenza vaccine covers which of the following virus strains? ",
+        "a": "H3N2 influenza virus",
+        "b": "H5N1 influenza virus",
+        "c": "H7N9 influenza virus",
+        "d": "Influenza C virus",
+        "e": "Parainfluenza virus",
+        "correct": "A",
+        "explanation": "Trivalent SIV incl: (1) influenza A (H1N1) virus, (2) influenza A (H3N2) virus, (3) influenza B virus (either Yamagata or Victoria lineage), while quadrivalent SIV consist of an additional influenza B virus of the lineage not contained in the trivalent SIV.   _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 10
+    },
+    "12": {
+        "question": "The following is true for spontaneous bacterial peritonitis complicating cirrhosis of the liver: ",
+        "a": "The ascitic fluid protein is over 25 g/L",
+        "b": "Culture often yields anaerobic organisms",
+        "c": "Third generation cephalosporins are the antibiotics of choice",
+        "d": "Ascitic fluid pH of < 7.3 is a poor prognostic indicator",
+        "e": "Diagnostic paracentesis is not necessary if the patient has signs of abdominal tenderness and rebound tenderness",
+        "correct": "C",
+        "explanation": "A \u2013 ascitic protein classically <10 B \u2013 usually G- or streptococci, or may be -ve D \u2013 pH <7.3 suspicious; pH <7.15 associated with poor prognosis E \u2013 diagnostic paracentesis always needed! _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 12
+    },
+    "13": {
+        "question": "Concerning functional dyspepsia, which is not true? ",
+        "a": "Impaired motility",
+        "b": "Delayed gastric emptying",
+        "c": "Basal gastric acid secretion is raised",
+        "d": "Related to stress",
+        "e": "Gastric hypersensitivity",
+        "correct": "C",
+        "explanation": "Pathophysiology includes: Altered gastric motility and compliance Visceral hypersensitivity Helicobacter pylori infection, altered gut microbiome Psychosocial dysfunction -_",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 13
+    },
+    "14": {
+        "question": "Which of the following will NOT cause black stool?",
+        "a": "Iron therapy",
+        "b": "Bismuth therapy",
+        "c": "Guinness",
+        "d": "Red meat",
+        "e": "GI bleeding",
+        "correct": "D",
+        "explanation": "- red meat _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 14
+    },
+    "15": {
+        "question": "Someone with chronic HCV found to have HCC. 1.2 cm nodule over segment VIII. What is the",
+        "a": "Right hepatectomy",
+        "b": "Liver transplant",
+        "c": "RFA",
+        "d": "Transarterial chemotherapy",
+        "e": "Transarterial ethanol",
+        "correct": "A",
+        "explanation": "best option for treatment?  - presumably right hepatectomy is curative but has less complications than liver transplant _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 15
+    },
+    "16": {
+        "question": "Patient with chronic HBV, on lamivudine for 2 years, presents with high (~2000) AST, antiHBeAg is positive, no HBV DNA, anti-HAV IgG +ve. What is the cause?",
+        "a": "Lamivudine resistance",
+        "b": "HBV seroconversion",
+        "c": "HEV infection",
+        "d": "Acute on chronic HBV",
+        "e": "",
+        "correct": "C",
+        "explanation": "- HEV infection HAV IgG just means past infection HBV DNA -ve rules out active HBV infection so B and D is wrong, disease is well-controlled _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 16
+    },
+    "17": {
+        "question": "Which of the followings does not cause dysphagia?",
+        "a": "Carcinoma of the oesophagus",
+        "b": "Esophageal diverticulum",
+        "c": "Achalasia",
+        "d": "Reflux esophagitis",
+        "e": "Mitral stenosis",
+        "correct": "D",
+        "explanation": "- odynophagia is not dysphagia E can cause Ortner syndrome, or cardiovocal syndrome where the left recurrent laryngeal nerve is compressed _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 17
+    },
+    "18": {
+        "question": "The typical finding of irritable bowel syndrome is:",
+        "a": "Raised ESR",
+        "b": "Faecal occult blood positive",
+        "c": "Abdominal pain relieved by defecation",
+        "d": "Weight loss",
+        "e": "",
+        "correct": "C",
+        "explanation": "- classic feature of IBS _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 18
+    },
+    "19": {
+        "question": "An 81-year-old man presented to the hospital with jaundice. He had been feeling unwell for",
+        "a": "Drug-induced cholestasis",
+        "b": "CA pancreas",
+        "c": "Gallstone disease",
+        "d": "Acute hepatitis A",
+        "e": "Cholangiocarcinoma",
+        "correct": "C",
+        "explanation": "several week and he had visited a general practitioner one month ago and was diagnosed with Helicobacter pylori and prescribed HP eradication therapy. In the past one week, he was unfit to food, weight loss and nauseated. He had dark brown urine and stool was offensive. Bilirubin 94, ALP 564, AST 74. Which of the following is the least likely cause?  - least likely is gallstone disease, as gallstone disease should not cause such persistent obstruction D \u2013 prolonged cholestasis occur in <5% of hep A. It is characterized by high bilirubin but decreasing AST/ALT. Note that the previous period of unwellness may actually be the pre-icteric phase of acute hepatitis. H. pylori is very common and may just be incidental. Classical course of acute hepatitis: pre-icteric (1-2w of low-grade fever, flu-like symptoms, GI upset, abdominal discomfort), icteric (1w), then convalescent _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 19
+    },
+    "20": {
+        "question": "Which of the followings is not characteristic of irritable bowel syndrome?",
+        "a": "More frequent bowel opening at pain onset",
+        "b": "Weight loss",
+        "c": "Less frequent bowel opening at pain onset",
+        "d": "Feeling of incomplete bowel opening",
+        "e": "Visible abdominal distension",
+        "correct": "B",
+        "explanation": "- weight loss Appears in both family medicine and internal medicine papers _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 20
+    },
+    "21": {
+        "question": "A 5mm tubular adenoma found during surveillance colonoscopy. When is the next screening",
+        "a": "1 year",
+        "b": "2 years",
+        "c": "3 years",
+        "d": "5 years",
+        "e": "10 years",
+        "correct": "D",
+        "explanation": "colonoscopy?  - 5 years, just memorize Recommendations for Follow-Up Colonoscopy: 1-2 tubular adenomas <10 mm: Repeat colonoscopy in 7 to 10 years. 3-4 tubular adenomas <10 mm: Repeat colonoscopy in 3 to 5 years. 5-10 tubular adenomas <10 mm: Repeat colonoscopy in 3 years. Adenomas \u226510 mm or with high-grade dysplasia: Repeat colonoscopy in 3 years. If more than 10 adenomas are found, repeat colonoscopy is recommended in 1 year. _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 21
+    },
+    "22": {
+        "question": "45/M coming for colorectal cancer screening. His mother was diagnosed of colorectal cancer at",
+        "a": "Colonoscopy at the age of 50",
+        "b": "Colonoscopy at the age of 55",
+        "c": "Colonoscopy now (at the age of 45)",
+        "d": "Faecal immunochemical test at the age of 50",
+        "e": "Faecal immunochemical test now (at the age of 45)",
+        "correct": "C",
+        "explanation": "the age of 65. He is healthy and has no bowel symptoms. What should be advised?  because positive family history with patient being age >40 CLN screening: \u2022 Normal risk: FOBT Q1-2y, FS Q5-10y, CLN Q10y 50-75y \u2022 +ve FHx: \u2192 dx <60y: CLN Q3-5y 40y+ or 10y younger than earliest onset \u2192 dx >60y: CLN Q5-10y 40y+ \u2022 FAP: FS Q1-2y 12-40y, FS Q5y 40y+ \u2022 UC: CLN with systemic biopsy Q1-3y from 8y pancolitis or 15y Lt colitis \u2022 Hx of CRC: CLN Q5y _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 22
+    },
+    "23": {
+        "question": "A 66-year-old man presents with acute right upper quadrant abdominal pain and fever. The",
+        "a": "Acute cholangiohepatitis",
+        "b": "Acute cholecystitis",
+        "c": "Acute pancreatitis",
+        "d": "Acute viral hepatitis",
+        "e": "Autoimmune hepatitis",
+        "correct": "A",
+        "explanation": "following are the initial liver biochemistry investigation results: ALT 898 (N<56), AST 1456 (N<38), ALP 200 (N<124), bilirubin 34 (N<17) What is the most likely diagnosis?  - bilirubin completes Charcot's triad Very easy and classic but has came up 3 times already (last time was 2022) _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 23
+    },
+    "24": {
+        "question": "Middle-aged woman found jaundice for 2 days, with pale stool and dark urine. On review of the",
+        "a": "Amlodipine",
+        "b": "Augmentin",
+        "c": "Aspirin",
+        "d": "Levothyroxine",
+        "e": "Ramipril",
+        "correct": "B",
+        "explanation": "medications, which is the most likely culprit?  - augmentin Drug-induced cholestasis NSAIDs, antibiotics, OCP, anabolic drugs e.g. steroids, chlorpromazine (anti-psychotic) Mixed cholestatic hepatitis; *Augmentin*, erythromycin, ACEI, NSAID Hepatitis: Panadol, isoniazid, rifampicin, allopurinol Steatosis: tetracycline, valproate, amiodarone, tamoxifen, TPN, glucocorticoid, metoprolol _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 24
+    },
+    "25": {
+        "question": "The rate of development of viral resistance after long-term treatment with entecavir is:",
+        "a": "0%",
+        "b": "1\u20132%",
+        "c": "5\u201310%",
+        "d": "15\u201320%",
+        "e": "30%",
+        "correct": "B",
+        "explanation": "- 1-2% _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 25
+    },
+    "27": {
+        "question": "The following tests are supportive for the diagnosis of primary biliary cholangitis except:",
+        "a": "Elevated C reactive protein",
+        "b": "Elevated IgM level",
+        "c": "Increased in liver ductal enzymes",
+        "d": "Liver biopsy revealed bile duct paucity",
+        "e": "Positive anti-mitochrondrial antibody",
+        "correct": "A",
+        "explanation": "- elevated CRP CRP is an acute phase reactant _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 27
+    },
+    "28": {
+        "question": "A 22-year-old man who was newly diagnosed to have Crohn\u2019s disease was started on mesalazine,",
+        "a": "Acute alcoholic hepatitis",
+        "b": "Azathioprine related side effects",
+        "c": "Occult hepatitis B",
+        "d": "Underlying primary sclerosing cholangitis",
+        "e": "Use of traditional Chinese medicine",
+        "correct": "B",
+        "explanation": "prednisolone and azathioprine. His bowel symptoms improved with treatment. However, he was noted to have abnormal liver function test on follow up with mildly raised ALT and AST (up to 3x upper limit of normal). He was not taking any other medications or herbs. He was born in Hong Kong and had received hepatitis B vaccination previously. What is the most likely cause of his abnormal liver function? (A) Acute hepatitis A  - Azathioprine related side effects _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 28
+    },
+    "29": {
+        "question": "Which of the following is NOT proven to be of value in the management of oesophageal varices?",
+        "a": "Antacids",
+        "b": "\u03b2-blockers",
+        "c": "Sengstaken tube",
+        "d": "Somatostatin",
+        "e": "Variceal banding",
+        "correct": "A",
+        "explanation": "- Antacids _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 29
+    },
+    "30": {
+        "question": "M/35, with history of ulcerative colitis on mesalazine and azathioprine, with flare (8 episodes of",
+        "a": "Infliximab infusion",
+        "b": "IV hydrocortisone",
+        "c": "IV metronidazole",
+        "d": "Vedolizumab infusion",
+        "e": "",
+        "correct": "B",
+        "explanation": "diarrhea per day etc). Hb 8, CRP 6, stool culture pending. Which of the following is the best treatment for his disease flare?  - since this is a flare, it is acute and it is best to give steroids to quickly bring down the inflammation. Give infliximab if other treatment options fail (steroids-refractory). Houseman handbook says consider infliximab if no improvement in 3-5 days. _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 30
+    },
+    "31": {
+        "question": "A 72-year-old man was admitted to the hospital, accompanied by his son. His son reported that",
+        "a": "Blood pressure 170/110 mmHg",
+        "b": "Soft central midline lower abdominal mass",
+        "c": "Bilateral ankle edema",
+        "d": "Pulse 97 bpm, irregular",
+        "e": "Surgical scar on left hand / wrist",
+        "correct": "B",
+        "explanation": "the patient cannot recognize him for one day. He did not have history of dementia. He has a history of BPH on terazosin. He also has history of hypertension with blood pressure of 130/100 mmHg. What is the most likely finding from physical examination?   AROU delirium - the mass is a distended bladder _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 31
+    },
+    "32": {
+        "question": "A daughter noted his father to have low mood after stroke, the father had a history of DM and",
+        "a": "Serum T4",
+        "b": "Haemoglobin",
+        "c": "Serum creatine phosphokinase",
+        "d": "Serum Na",
+        "e": "Serum urate",
+        "correct": "D",
+        "explanation": "HT on diuretics. He has post-stroke depression, and citalopram is to be started. Which of the following tests must be carried out before and during the drug use?  - Serum Na _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 32
+    },
+    "33": {
+        "question": "An 85-year-old man presented to the outpatient clinic with recurrent mechanical falls. On",
+        "a": "A",
+        "b": "B12",
+        "c": "C",
+        "d": "D",
+        "e": "Folate",
+        "correct": "D",
+        "explanation": "examination, he was diagnosed to be frail with sarcopenia. Supplement of which vitamin can improve his frailty and sarcopenia status?  - vitamin D _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 33
+    },
+    "34": {
+        "question": "Which of the following findings is MOST diagnostic of a major neurocognitive disorder",
+        "a": "Impaired attention span",
+        "b": "Inability to read and write",
+        "c": "Low score in the Mini Mental State Examination",
+        "d": "Physical aggression",
+        "e": "Poor short-term memory",
+        "correct": "E",
+        "explanation": "(dementia)?  - official answer, don't ask me _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 34
+    },
+    "35": {
+        "question": "Typical cytogenetic abnormalities are commonly found in the following conditions except:",
+        "a": "Follicular lymphoma",
+        "b": "Chronic myeloid leukaemia",
+        "c": "Burkitt\u2019s lymphoma",
+        "d": "Acute promyelocytic leukaemia",
+        "e": "Aplastic anaemia",
+        "correct": "E",
+        "explanation": "A \u2013 85% a/w t(14;18) BCL2 B \u2013 t(9;22) BCR-ABL C \u2013 commonly a/w chr8 translocations D \u2013 t(15;17) PML-RARA _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 35
+    },
+    "36": {
+        "question": "A 32 years old man was incidentally found to have an 8cm splenomegaly. His haemoglobin was",
+        "a": "Chronic myeloid leukaemia",
+        "b": "Essential thrombocythaemia",
+        "c": "Myelodysplastic syndrome",
+        "d": "Chronic myelomonocytic leukaemia",
+        "e": "Chronic lymphocytic leukaemia",
+        "correct": "A",
+        "explanation": "14 g/dL, white cell count 33 \u00d7 109/l and platelet count 800 \u00d7 109/l. The neutrophil alkaline phosphatase score was zero. The most likely diagnosis is:  - neutrophil alk phos is a measure of neutrophil activity Decreased in CML, PNH Increased in infection, pregnancy etc. _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 36
+    },
+    "37": {
+        "question": "Which of the following antibiotics affects warfarin metabolism and need careful INR monitoring?",
+        "a": "Amoxicillin",
+        "b": "Trimethoprim",
+        "c": "Nitrofurantoin",
+        "d": "Ciproxin",
+        "e": "Clarithromycin",
+        "correct": "E",
+        "explanation": "- clarithromycin More typically metronidazole, macrolide, azole. _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 37
+    },
+    "38": {
+        "question": "Regarding DIC, the followings are true except:",
+        "a": "APT and APTT are increased/prolonged",
+        "b": "Thrombin time is increased",
+        "c": "D-dimer level is increased",
+        "d": "Reticulocytosis",
+        "e": "Fibrinogen levels are increased",
+        "correct": "E",
+        "explanation": "- fibrinogen should be decreased _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 38
+    },
+    "39": {
+        "question": "Which of the following is commonly found in anaemia associated with rheumatoid arthritis?",
+        "a": "Hb is lower than 100g/L (or 10 g/dL)",
+        "b": "Hypochromic microcytic anaemia",
+        "c": "Bone marrow iron is normal or increased",
+        "d": "Respond to folic acid",
+        "e": "Respond to iron",
+        "correct": "C",
+        "explanation": "- anemia of chronic disease, increased iron stores _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 39
+    },
+    "40": {
+        "question": "Which of the following is the commonest food allergen to cause atopic dermatitis in children <3",
+        "a": "Soy",
+        "b": "Egg",
+        "c": "Peanuts",
+        "d": "Shrimp",
+        "e": "Wheat",
+        "correct": "D",
+        "explanation": "years in Hong Kong?  - shrimp _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 40
+    },
+    "41": {
+        "question": "A 40-year-old lady presented with thrombocytopenia was found to have Hb 19 g/dL. Which of",
+        "a": "Splenomegaly of 6cm",
+        "b": "Low erythropoietin level",
+        "c": "High white cell count",
+        "d": "Severe thrombocytopenia",
+        "e": "Philadelphia chromosome negative",
+        "correct": "D",
+        "explanation": "the following is least compatible with the diagnosis of polycythaemia rubra vera?  - proliferation in all cell lines more typical, therefore should be thrombocytosis not thrombocytopenia _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 41
+    },
+    "42": {
+        "question": "78/M with past history of DM, complains of dizziness. Blood results as follows: Hb 6.5, WBC",
+        "a": "DM nephropathy",
+        "b": "Variceal bleeding from underlying cirrhosis",
+        "c": "AML",
+        "d": "Multiple myeloma",
+        "e": "",
+        "correct": "D",
+        "explanation": "normal, Cr 180, A/G ratio 32/72. What is the likely diagnosis?  - Myeloma because of elevated globulin, suggests some globulin are being produced somewhere _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 42
+    },
+    "43": {
+        "question": "Which of the following is present in pernicious anaemia?",
+        "a": "Eosinophilia",
+        "b": "Lymphocytosis",
+        "c": "Pancytopenia",
+        "d": "Reticulocytosis",
+        "e": "Thrombocythaemia",
+        "correct": "C",
+        "explanation": "- pancytopenia _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 43
+    },
+    "44": {
+        "question": "81 year old patient history of hypertension, DM, gout and AF, admit for ischemic stroke. He is",
+        "a": "Amiodarone",
+        "b": "Carbamazepine",
+        "c": "Ciprofloxacin",
+        "d": "Clarithromycin",
+        "e": "Metronidazole",
+        "correct": "B",
+        "explanation": "on metformin, amlodipine and warfarin and there is a recent new drug added. His usual INR is 2. At admission his INR is 1.3 despite good drug compliance. Which of the following drug is most likely added?  - Carbamazepine Rifampin is the only other notable antibiotic that is a CYP450 inducer Memorize \"epilepsy\" - phenytoin and carbamazepine are both CYP450 inducers Most antibiotics are CYP450 inhibitors (increases INR) _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 44
+    },
+    "45": {
+        "question": "Patient requires transfusion. Which of the following is done in the hospital blood bank?",
+        "a": "ABO typing of the donor\u2019s red blood cell",
+        "b": "Check for clinically significant antibodies in donor\u2019s serum",
+        "c": "Check for clinically significant antibodies in recipient\u2019s serum",
+        "d": "Mix the donor serum against recipient red blood cells",
+        "e": "Mix the recipient serum against donor\u2019s red blood cells",
+        "correct": "C",
+        "explanation": "This is the \u2018screen\u2019 in type and screen. A, B \u2013 done in red cross blood bank D, E \u2013 cross match apparently no longer done nowadays _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 45
+    },
+    "46": {
+        "question": "Essential thrombocytosis treated with aspirin and hydroxyurea. 8 days later, platelet is",
+        "a": "Aspirin",
+        "b": "Hydroxyurea",
+        "c": "Hypothyroidism",
+        "d": "Progression to acute leukaemia",
+        "e": "Progression to myelofibrosis",
+        "correct": "B",
+        "explanation": "normalized but MCV increases from 89 to 102 fL. What is the cause?  - cytotoxic medication is a cause for macrocytosis (similar mechanism to B12, it inhibits DNA synthesis) _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 46
+    },
+    "47": {
+        "question": "32-year-old woman has incidental finding of hypochromic microcytic anemia. She was",
+        "a": "Alpha-thalassemia trait",
+        "b": "Beta-thalassemia trait",
+        "c": "Haemoglobin H disease",
+        "d": "Iron deficiency anemia",
+        "e": "Sickle cell trait",
+        "correct": "B",
+        "explanation": "asymptomatic all along. Hemoglobin profile shows the following: HbA 95% HbA2 4% (high) HbF 1% (high) What is the diagnosis?  , elevated HbA2 and HbF means compensating with non-alpha subunits _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 47
+    },
+    "48": {
+        "question": "Platelet concentrates used in ordinary transfusion practice",
+        "a": "Are ABO-matched with the recipient",
+        "b": "Are isolated by donor cytapheresis",
+        "c": "Are kept at 4\u00b0C",
+        "d": "Are not HLA-matched with the recipient",
+        "e": "Cause sepsis in about 1% of cases",
+        "correct": "D",
+        "explanation": "Cytapheresis is the technique in which the cellular elements of the blood i.e. platelets, leucocytes, lymphocytes and red blood cells (RBCs) are selectively separated from the blood. _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 48
+    },
+    "49": {
+        "question": "An old lady with melaena and lower limb bruising. Hb 9, MCV 65, WCC 4, platelet 8. Something",
+        "a": "Bone marrow",
+        "b": "FOBT",
+        "c": "Vitamin B12",
+        "d": "Prothrombin time",
+        "e": "CT abdomen",
+        "correct": "B",
+        "explanation": "wrong with the kidneys. What investigation should be ordered?  - need to find the source of occult bleeding first Despite being a poorly memorized/written question, the low platelets kind of excludes a bone marrow biopsy. _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 49
+    },
+    "50": {
+        "question": "History of aplastic anemia, require frequent platelet transfusion, but developed recurrent fever",
+        "a": "Antibiotics",
+        "b": "HLA-matching",
+        "c": "Irradiated products",
+        "d": "Leukocyte reduction",
+        "e": "Anti-histamine before transfusion",
+        "correct": "D",
+        "explanation": "after transfusion every time, but no SOB or anaphylaxis. What to give to prevent?  - this is febrile non-hemolytic transfusion reaction, where recipient antibodies in recipient plasma react against donor white blood cells found in plasma of donor platelets C is for prevent transfusion-related GvHD _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 50
+    },
+    "51": {
+        "question": "Elderly man, completely asymptomatic patient. Went for routine check up.",
+        "a": "AML",
+        "b": "ALL",
+        "c": "CLL",
+        "d": "Myelofibrosis",
+        "e": "Monoclonal gammopathy of unknown significance",
+        "correct": "",
+        "explanation": "Hb low normal WCC 36 Neutrophil normal Lymphocyte 29.5 Ca normal Creatinine 140 mildly elevated Serum electrophoresis shows weak monoclonal band _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 51
+    },
+    "52": {
+        "question": "A 45-year-old man with good past health was referred to your clinic for incidental finding of",
+        "a": "Acute megakaryocytic leukaemia",
+        "b": "Chronic lymphocytic leukaemia",
+        "c": "Chronic myelomonocytic leukaemia",
+        "d": "Essential thrombocythaemia",
+        "e": "Thrombocytosis due to iron deficiency anaemia",
+        "correct": "D",
+        "explanation": "raised platelet count. He was completely asymptomatic and physical examination showed no abnormality. His complete blood picture was as follows Normal Range Haemoglobin 14.3 g/dL 11.5 \u2013 14.8 MCV 88 fL 82.0 \u2013 95.5 WBC 11 x109/L 3.89 \u2013 9.93 (Neutrophil 8.5 2.01 \u2013 7.42 Lymphocyte 2.0 1.06 \u2013 3.61 Monocyte) 0.5 0.26 \u2013 0.85 Platelet 880 x109/L 167 \u2013 396 Which of the following diagnoses is most compatible with the above clinical picture and blood test results?  - essential thrombocythemia WBC is only slightly elevated, this is a trick In CMML, there are cytopenias and also at least one cell line that is dysplastic Hence it is kind of a myelofibrosis + myeloproliferative neoplasm _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 52
+    },
+    "53": {
+        "question": "Typhoid fever",
+        "a": "Associated with relative bradycardia",
+        "b": "Caused by Salmonella paratyphii",
+        "c": "Frequently presented with bloody diarrhea",
+        "d": "Cannot be prevented by vaccination",
+        "e": "Can be treated by metronidazole",
+        "correct": "A",
+        "explanation": "- Faget sign (fever paired with bradycardia) Faget sign also seen in: -Yellow fever -Typhoid fever -Brain abscess -Tularaemia -Brucellosis -Colorado tick fever -Some pneumonias - Legionella pneumonia and Mycoplasma pneumonia -Drug fever (e.g. beta-blockers known as the Beta-Faget sign) Of note, the Faget sign in bacterial infections is consistently associated with bacteria that have an intracellular life cycle. (wiki) _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 53
+    },
+    "54": {
+        "question": "Dialysis related amyloidosis is the result of failure of clearance of:",
+        "a": "Urea",
+        "b": "Immunoglobulin light chains",
+        "c": "\u03b22 microglobulin",
+        "d": "Serum amyloid A",
+        "e": "Cystine",
+        "correct": "C",
+        "explanation": "- beta-2 microglobulin _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 54
+    },
+    "55": {
+        "question": "Mr Chan is a 45-year old Chinese male with good past health. He presented with fever and sore",
+        "a": "Minimal change disease",
+        "b": "IgA nephropathy",
+        "c": "Membranous nephropathy",
+        "d": "Acute tubulo-interstitial nephritis",
+        "e": "Focal segmental glomerulosclerosis",
+        "correct": "D",
+        "explanation": "throat to his family doctor, who then prescribed a course of amoxycillin (for 5 days), with paracetamol and anti-bacterial gargle. About 2 weeks later, Mr Chan developed malaise and investigations showed elevated levels of serum urea and creatinine (4 times the normal upper limit). Urinalysis showed +RBC and the absence of proteinuria. Ultrasonogram showed that both kidneys were of normal size. A kidney biopsy was performed. What is the most likely renal histological diagnosis?  - coincides with penicillin. IgA nephropathy usually does not present with such marked renal impairment.",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 55
+    },
+    "56": {
+        "question": "For post-streptococcal glomerulonephritis, which type of glomerulonephritis is the typical",
+        "a": "Minimal change nephropathy",
+        "b": "Diffuse proliferative glomerulonephritis",
+        "c": "Focal segmental glomerulonephritis",
+        "d": "Membranous glomerulonephritis",
+        "e": "IgA nephropathy",
+        "correct": "B",
+        "explanation": "finding?  - diffuse proliferative glomerulonephritis _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 56
+    },
+    "57": {
+        "question": "Which of the following ECG changes is the one following peaked T wave when there is",
+        "a": "Widening of QRS complex",
+        "b": "Prolonged PR",
+        "c": "Prolonged QT",
+        "d": "ST elevation",
+        "e": "Torsades de pointes",
+        "correct": "B",
+        "explanation": "hyperkalaemia?  - prolonged PR _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 57
+    },
+    "58": {
+        "question": "Which of the followings is not a complication of correction of severe metabolic acidosis?",
+        "a": "Paradoxical brain acidosis: This is a recognized complication that can occur when there is a rapid correction of metabolic acidosis, leading to an increase in carbon dioxide levels in the brain and subsequent acidosis.",
+        "b": "Tissue hypoxia: Rapid changes in pH can affect oxygen delivery and utilization, potentially causing tissue hypoxia.",
+        "c": "Hyponatraemia",
+        "d": "Tetany: This can occur due to shifts in calcium levels related to changes in pH during correction of acidosis.",
+        "e": "",
+        "correct": "C",
+        "explanation": "Hyponatraemia: While correcting metabolic acidosis can lead to various complications, hyponatraemia is not typically a direct complication associated with the correction of metabolic acidosis. Instead, it may occur due to other factors such as fluid overload or inappropriate fluid management but is not a primary concern in the context of correcting acidosis.  _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 58
+    },
+    "59": {
+        "question": "Elevated levels of which of the following is most suggestive of fibromuscular dysplasia causing",
+        "a": "Peripheral renin",
+        "b": "Urinary aldosterone",
+        "c": "Adrenal vein renin",
+        "d": "Renal vein renin",
+        "e": "Renal vein aldosterone",
+        "correct": "D",
+        "explanation": "hypertension?  because the renin is secreted by the kidneys, so renal vein should have the highest concentration _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 59
+    },
+    "60": {
+        "question": "A 48-year-old man with good past health has mild ankle swelling for a month. Here are some",
+        "a": "Obstructive uropathy",
+        "b": "Focal segmental glomerulosclerosis",
+        "c": "IgA nephropathy",
+        "d": "Membranous nephropathy",
+        "e": "Myeloma cast nephropathy",
+        "correct": "E",
+        "explanation": "blood test results: Urea 30 Creatinine 450 Calcium 2.8 Phosphate increased Albumin 29 Globulin 59 ALT normal Alkaline phosphatase increased Ultrasound shows both kidney of normal sizes. What is the likely diagnosis?  - look at calcium, alk phos and creatinine _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 60
+    },
+    "61": {
+        "question": "A 73-year-old man, with a history of DM and was now on Diamicron. The blood glucose was",
+        "a": "DTPA renal scan",
+        "b": "Doppler US renal artery",
+        "c": "Doppler US renal vein",
+        "d": "Renal biopsy",
+        "e": "No additional investigation needed",
+        "correct": "B",
+        "explanation": "well con- trolled, ranging 4-7 mmol. He was recently found to have high blood pressure, which was averaged 170/96 mmHg for the recent three times. (The previous blood pressure level was 120/76 mmHg.) What would you do for his high blood pressure?   _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 61
+    },
+    "62": {
+        "question": "80/F, diagnosed with end stage renal failure due to membranous IgA glomerulonephritis and",
+        "a": "Stop anti-hypertensive drug",
+        "b": "Stop erythropoietin",
+        "c": "Continue the original treatment",
+        "d": "Change to haemodialysis",
+        "e": "Add phosphate binder",
+        "correct": "E",
+        "explanation": "hypertension. On CAPD, anti-hypertensive drug and erythropoietin. For this followup, she was asymptomatic. BP 130/80 mmHg, Hb 11, Ca 2.2 (exactly the lower limit of normal range), PO4 higher than the normal, urea ~20 (higher than the normal), creatinine higher than normal. Which of the following should be done?   Since asymptomatic, no need to change dialysis regime Phosphate is the only derangement _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 62
+    },
+    "63": {
+        "question": "40/F good pass health pain and stiffness affecting finger joints for 2 months. P/E: normal. BP",
+        "a": "Crescentic IgA",
+        "b": "Chronic tubulointerstitial nephritis",
+        "c": "FSGS",
+        "d": "Minimal change disease",
+        "e": "Membranous nephropathy",
+        "correct": "B",
+        "explanation": "130/86 mmHg. Urinalysis: trace protein, no RBC or WBC. Blood test results are as follows: Creatinine 170 Na 136 K 5.9 Cl 112 Bicarbonate 17 Which is most likely renal histological diagnosis?   Urinalysis shows no sign of nephritic or nephrotic. From superpass document: AG = 7 = normal \u2192 NAGMA due to tubular dysfunction. Renal impairment compatible with TIN. Over a clinical picture of RA/SLE a/w TIN. Also, lupus-related \u2018distal\u2019 RTA quite commonly a/w hyperK \u2013 so-called \u2018voltage-dependent RTA\u2019. This is due to loss of Na delivery to distal segment or loss in principal cell Na reabsorption rather than primary defect in H+ excretion. With reduced distal Na reabsorption, there is excessive K conservation, leading to hyperK. _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 63
+    },
+    "64": {
+        "question": "A patient with nephrotic syndrome has sudden deterioration in renal function and increase in",
+        "a": "Crescentic transformation",
+        "b": "Thrombophilia",
+        "c": "Renal vein thrombosis",
+        "d": "Antithrombin III mutation",
+        "e": "Coagulation defect due to immunosuppressant",
+        "correct": "C",
+        "explanation": "proteinuria. What is the most likely cause?  - renal vein thrombosis Crescentic transformation quite rare _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 64
+    },
+    "65": {
+        "question": "What is the most common histopathological finding of HIV-associated glomerular disease?",
+        "a": "Focal segmental glomerulosclerosis",
+        "b": "Minimal change disease",
+        "c": "Membranous glomerulonephritis",
+        "d": "IgA nephropathy",
+        "e": "Membranoproliferative glomerulonephritis",
+        "correct": "A",
+        "explanation": "Collapsing form of FSGS is classical in HIV and has a predilection for black people (UptoDate) _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 65
+    },
+    "66": {
+        "question": "Patient with DM and HT on CCB, diuretics and metformin was found to have proteinuria. BP",
+        "a": "Stop ARB",
+        "b": "Increase dose of ARB",
+        "c": "Add ACEI",
+        "d": "USG kidney and renal vessels",
+        "e": "Do nothing else",
+        "correct": "E",
+        "explanation": "not well controlled. K normal. Cr around 100. Started on ARB. On follow-up, BP still suboptimal. Proteinuria decreased a bit. K normal. Cr raised a bit to around 120. What is your next step?  - do nothing, after initiation of ARB there is some reduction in eGFR unless >30% reduction _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 66
+    },
+    "67": {
+        "question": "Mrs Yau, a 33-year-old patient with IgA nephropathy currently on peritoneal dialysis with 4 2-",
+        "a": "Furosemide 40 mg daily",
+        "b": "Home O2 therapy",
+        "c": "Commence haemodialysis",
+        "d": "Change one pack of dialysate to 2.5% dextrose",
+        "e": "Transfuse one pack of red cells",
+        "correct": "D",
+        "explanation": "litre exchanges of 1.5% dextrose dialysate daily. On oral antihypertensives, phosphate binder and erythropoietin stimulating agents for anaemia. She presented with shortness of breath on exertion. Physical examination showed no pallor with bilateral pitting oedema. Blood tests showed: Hb 9.3 g/dL (slightly low), Na 138, K 3.4, Urea 26, creatinine 660. Which of the following is the most appropriate management?   Pitting edema means still volume overload _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 67
+    },
+    "68": {
+        "question": "A 45-year-old woman comes to the medical clinic asking for screening of polycystic kidney",
+        "a": "Abdominal X-ray",
+        "b": "Genetic screening",
+        "c": "MRI kidneys",
+        "d": "Reassure the patient",
+        "e": "Yearly urinalysis",
+        "correct": "D",
+        "explanation": "disease. Her brother was put on peritoneal dialysis recently and autosomal dominant polycystic kidney disease was told to be the underlying cause. She is otherwise asymptomatic. Initial investigations show normal renal function test and normal ultrasound findings. What will you do next?   Ultrasound kidneys already sufficient to screen for ADPKD, no need for genetic screening _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 68
+    },
+    "69": {
+        "question": "Ms Lau was a 33-year-old Chinese female with endstage renal failure due to IgA nephropathy",
+        "a": "Change her to haemodialysis since she was obviously under-dialyzed",
+        "b": "Check ferritin level and transferrin saturation",
+        "c": "Check her thyroid hormone level",
+        "d": "Check the levels of lactase dehydrogenase and haptoglobin",
+        "e": "Increase the dose of ESA",
+        "correct": "B",
+        "explanation": "just started on peritoneal dialysis last month. She was receiving oral anti-hypertensive medications, a phosphate binder, and an erythropoiesis-stimulating agent (ESA). She complained of malaise. Physical examination showed mild bilateral ankle oedema, pallor, and a blood pressure reading of 130/86 mmHg. Investigations showed the following results: haemoglobin 6.3 g/dL, with reduced MCV and MCH white cell count 5.2x109/L platelet count 120x109/L sodium 133 mmol/L potassium 3.4 mmol/L urea 26 g/L creatinine 660 \u00b5mol/L Which one of the following is the most appropriate management?  - functional iron defieicny anemia There is functional IDA (meaning enough iron stores but insufficient bioavailability) because high levels of hepcidin inhibits release of iron from macrophages and enterocytes Check ferritin level and transferrin saturation then give parenteral iron _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 69
+    },
+    "70": {
+        "question": "88/F with history of DM for 30 years on sulphonylurea and metformin, apparently good control.",
+        "a": "Renal biopsy for derange renal function",
+        "b": "Top up losartan to reduce BP to 110/75",
+        "c": "Top up amlodipine to reduce BP to 110/75",
+        "d": "Stop metformin and sulphonylurea and change to insulin",
+        "e": "Stop metformin only",
+        "correct": "E",
+        "explanation": "Hypertension on 50mg losartan and amlodipine 2.5mg. Follow up ophthalmologist for diabetic retinopathy. Come to find you for 2nd opinion BP: 120/80? Random glucose 6.8 Creatinine 190 Na, K, CBC normal Albumin slightly low; some urine protein not at nephrotic range Your next step:  - stop metformin because risk of MALA (metformin-associated lactic acidosis) Previous FDA recommendation: stop if serum Cr >124mcmol/L Current: stop if eGFR<30ml/min/1.73m2 _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 70
+    },
+    "71": {
+        "question": "A 73-year-old lady with 20-year history of type 2 diabetes mellitus and hypertension, apparently",
+        "a": "Amlodipine",
+        "b": "Amoxicillin",
+        "c": "Losartan",
+        "d": "Metformin",
+        "e": "Sitagliptin",
+        "correct": "D",
+        "explanation": "well control on oral medications, complained of recent onset of general discomfort for 1 week. She experienced shortness of breath for 2 days. Physical examination revealed laboured breathing but there was no basal lung crepitations. Urinalysis showed + protein, and no red cells. Serum creatinine of is 388 (N < 90). Which of the following drug is most likely to have a major contribution to this patient\u2019s current presentation?  - Metformin Lactic acidosis picture _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 71
+    },
+    "72": {
+        "question": "Miss Lam was a 22-year-old Chinese female with good past health. She complained of malaise",
+        "a": "Blood test for anti-dsDNA antibody",
+        "b": "Blood test for bicarbonate level",
+        "c": "Blood test for HBsAg",
+        "d": "Renal biopsy",
+        "e": "Urine cytology",
+        "correct": "B",
+        "explanation": "for a few months. Physical examination showed normal findings. Her blood pressure was 110/72 mmHg. Urinalysis showed normal findings. Blood tests showed the following results: Normal Range Haemoglobin 10.3 g/dL 11.5 \u2013 14.8 WBC 5.2 x 109/L 3.89 \u2013 9.93 Platelet count 190 x 109/L 167 \u2013 396 Sodium 139 mmol/L 136 \u2013 148 Potassium 2.4 mmol/L 3.6 \u2013 5.0 Chloride 115 mmol/L 100 \u2013 109 Albumin 36 g/L 39 \u2013 50 Globulin 41 g/L 24 \u2013 37 Which one of the following is the most relevant investigation at this stage?  - bicarbonate The only abnormality is potassium, do serum bicarbonate to rule out any metabolic disturbances Remember the hypokalemia flowchat: -blood pressure, bicarbonate, aldosterone and renin -renal loss or extra-renal loss _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 72
+    },
+    "73": {
+        "question": "Which of the following is not a feature of renal tubular acidosis?",
+        "a": "Increased urine pH",
+        "b": "Glycosuria",
+        "c": "Hypokalaemia",
+        "d": "Bone pain",
+        "e": "Proteinuria",
+        "correct": "E",
+        "explanation": "- proteinuria Glycosuria is also seen in type 2 (proximal) RTA, where there is defect with both glucose and bicarbonate reabsorption _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 73
+    },
+    "74": {
+        "question": "Which is false about glioblastoma multiforme?",
+        "a": "Infiltrative margin:",
+        "b": "Lung metastasis:",
+        "c": "Spread to contralateral hemisphere:",
+        "d": "CSF metastasis:",
+        "e": "",
+        "correct": "B",
+        "explanation": "- lung metastasis Glioblastoma multiforme is known for its infiltrative nature, meaning it tends to invade surrounding brain tissue rather than forming a well-defined border. This is a true characteristic of GBM. Glioblastomas are primarily brain tumors and do not typically metastasize to distant organs like the lungs. While they can spread locally within the central nervous system, systemic metastasis is rare. This statement is false regarding GBM. GBM can spread within the brain and can affect the contralateral hemisphere, especially through the white matter tracts. This is a true characteristic. Glioblastomas can spread through the cerebrospinal fluid (CSF) and may lead to leptomeningeal dissemination, which is a recognized pattern of spread for this tumor type. This statement is true. _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 74
+    },
+    "75": {
+        "question": "A 39-year-old man with a history of HIV comes to A&E with a generalized tonic-clonic seizure.",
+        "a": "CMV infection",
+        "b": "Bacterial brain abscess",
+        "c": "Cerebral infarction",
+        "d": "CNS lymphoma",
+        "e": "Malignant astrocytoma",
+        "correct": "E",
+        "explanation": "He is on triple therapy for HIV. CT examination showed three contrast-enhanced lesion in the brain. Fundoscopic examination was normal. CD4 count is 470. What is the most likely diagnosis?  - malignant astrocytoma A and B - tests do you know AIDS mean CD4 <200 where opportunistic infections occur C is hypodense and not contrast-enhancing D usually only occurs when CD4 <100 -> loss of CD4 against EBV (see UptoDate) Therefore, E _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 75
+    },
+    "76": {
+        "question": "Which medication for ameliorating nausea in use of levodopa for Parkinson?",
+        "a": "Metoclopramide",
+        "b": "Domperidone",
+        "c": "Carbidopa",
+        "d": "Codeine",
+        "e": "Vitamin B6",
+        "correct": "B",
+        "explanation": "B > A because it does not cross blood brain barrier _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 76
+    },
+    "77": {
+        "question": "Which of the following is not a clinical feature of lateral medullary syndrome?",
+        "a": "Dysphagia",
+        "b": "Ipsilateral loss of trigeminal sensation",
+        "c": "Ipsilateral Horner\u2019s syndrome",
+        "d": "Ipsilateral loss of spinothalamic sensation of limbs and trunk",
+        "e": "Ipsilateral ataxia of limb",
+        "correct": "D",
+        "explanation": "- with regards to the trunk, should be contralateral loss of pain and temperature sensation _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 77
+    },
+    "78": {
+        "question": "Which is not a common cause of meningitis?",
+        "a": "Neisseria meningitidis",
+        "b": "Streptococcus pneumoniae",
+        "c": "Haemophilus influenzae",
+        "d": "Cryptococcus neoformans",
+        "e": "Streptococcus suis",
+        "correct": "D",
+        "explanation": "_",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 78
+    },
+    "79": {
+        "question": "Patient on warfarin. Conscious. Right-sided ataxia and nystagmus. SBP 160 mmHg. Right",
+        "a": "Monitor GCS qid",
+        "b": "Insert Ryle\u2019s tube for feeding and giving medication",
+        "c": "Lower blood pressure by giving nifedipine via Ryle\u2019s tube",
+        "d": "Give IV phenytoin to control seizure",
+        "e": "Look for coagulopathy, give FFP if necessary",
+        "correct": "E",
+        "explanation": "cerebellar haemorrhage seen on CT brain. Which of the following is an appropriate action?   _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 79
+    },
+    "80": {
+        "question": "A 53-year-old patient presented with 3 days of fever, worsening headache, nausea and vomiting.",
+        "a": "Lumbar puncture",
+        "b": "Treat with anti-tuberculous drugs and steroids",
+        "c": "Refer to neurosurgery for urgent drainage",
+        "d": "Empirical acyclovir",
+        "e": "Close observation",
+        "correct": "B",
+        "explanation": "He was later diagnosed to have acute hydrocephalus with dilated ventricles. What will be your immediate management?  - anti-TB because hydrocephalus classical for TB _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 80
+    },
+    "81": {
+        "question": "Anti-aquaporin 4 antibodies are specific markers for which disease?",
+        "a": "Devic\u2019s disease",
+        "b": "Wilson\u2019s disease",
+        "c": "Huntington\u2019s disease",
+        "d": "Steele-Richardson-Olszewski syndrome",
+        "e": "",
+        "correct": "A",
+        "explanation": "- Devic's disease is NMO (neuromyelitis ophthalmica) D is progressive supranuclear palsy (PSP) _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 81
+    },
+    "82": {
+        "question": "Which is of the following is most suggestive of mid-thoracic cord transverse myelitis?",
+        "a": "Absent anal tone",
+        "b": "Bilateral Babinski\u2019s sign",
+        "c": "Absent ankle reflexes",
+        "d": "Bilateral foot drop",
+        "e": "Bilateral upper limb brisk jerks",
+        "correct": "B",
+        "explanation": "Spinal shock phase can mean no UMN signs on upper limb; mid-thoracic can also mean UL is spared Lower limb should be UMN sign Anal tone absent is valid, but not most suggestive of this location in particular (mid-thoracic vs. at or above T1) _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 82
+    },
+    "83": {
+        "question": "A 48-year-old lady presents with diplopia. P/E shows no limitation of eye movements. Patient",
+        "a": "Lambert Eaton",
+        "b": "3rd nerve palsy",
+        "c": "Myasthenia gravis",
+        "d": "4th nerve palsy",
+        "e": "6th nerve palsy",
+        "correct": "D",
+        "explanation": "com- plains of diplopia when looking down and left. The INNER image disappears when the left eye is covered.  - 4th nerve palsy Inner image is normal eye _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 83
+    },
+    "84": {
+        "question": "Carbon monoxide poisoning",
+        "a": "Decreased Hb",
+        "b": "Increased PaCO2",
+        "c": "Decreased arterial blood oxygen content",
+        "d": "Decreased PaO2",
+        "e": "Decreased PaCO2",
+        "correct": "C",
+        "explanation": "While PaO2 does increase because of increased binding to Hb, the actual arterial content is decreased because it remains so tightly bound to the hemoglobin _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 84
+    },
+    "85": {
+        "question": "A 42-year-old man is suspected to have cryptogenic fibrosing alveolitis, which of the following",
+        "a": "Serum rheumatoid factor level",
+        "b": "HRCT of thorax",
+        "c": "Video-assisted thoracoscopic lung biopsy",
+        "d": "Spirometry",
+        "e": "Measure the diffusion capacity of carbon monoxide",
+        "correct": "E",
+        "explanation": "is least helpful in making the diagnosis?   E does not inform of the etiology, while at least A can rule out fibrosis from RA which has the same radiological appearance _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 85
+    },
+    "86": {
+        "question": "A 60-year-old gentleman complaining of shortness of breath. ABG was taken: pH 7.3, PaO2 7.9,",
+        "a": "Fully compensated respiratory acidosis",
+        "b": "Acute on chronic respiratory acidosis",
+        "c": "Acute respiratory acidosis",
+        "d": "Chronic uncompensated respiratory acidosis",
+        "e": "Mixed respiratory and metabolic acidosis",
+        "correct": "B",
+        "explanation": "PaCO2 9.8, HCO3 36. What is the most likely?   For A, the pH is still below normal (7.4) so it cannot be said that it is fully compensated For C, we can calculate (PaCO2 = 73mmHg) that the HCO3 would be 27mmol/L if this was a compensated acute process - there is overcompensation in this case, which wouldn't make sense since the pH is still acidic. Therefore, this must be an undercompensated chronic process, where a fully compensated HCO3 would be 24 + (3.3 x 4) = 37.2 but it is now only 36mmol/L (assuming we use 4 instead of 3 as the value of compensation per 10mmHg PaCO2). For D, it is just undercompensated, not uncompensated. E - there is no metabolic acidosis component, only metabolic alkalosis as a compensatory mechanism. _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 86
+    },
+    "87": {
+        "question": "Endobronchial ultrasound-transbronchial nodal aspiration (EBUS-TBNA) is useful for the",
+        "a": "Central bronchial tumour",
+        "b": "Mediastinal lymph node",
+        "c": "Miliary tuberculosis",
+        "d": "Pleural diseases",
+        "e": "Silicosis",
+        "correct": "B",
+        "explanation": "investigation of:  - mediastinal lymph nodes EBUS is for sampling mediastinal lymph nodes _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 87
+    },
+    "88": {
+        "question": "A 45 year-old woman had snoring during sleep and sleepiness in daytime. Obstructive sleep",
+        "a": "Blood pressure",
+        "b": "Body temperature",
+        "c": "Hours of sleep at night",
+        "d": "Pulse rate",
+        "e": "Respiratory rate",
+        "correct": "A",
+        "explanation": "apnea was suspected. Which of the following measurements would be the most relevant to the diagnosis?  - look for hypertension in OSA _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 88
+    },
+    "89": {
+        "question": "A 43-year-old man who has enjoyed good health was admitted to the Intensive Care Unit for",
+        "a": "Metabolic acidosis only",
+        "b": "Metabolic acidosis with respiratory compensation",
+        "c": "Mixed respiratory and metabolic acidosis",
+        "d": "Respiratory acidosis only",
+        "e": "Respiratory acidosis with metabolic compensation",
+        "correct": "C",
+        "explanation": "severe community acquired pneumonia and septic shock. His condition continued to deteriorate despite breathing 100% oxygen therapy via a face mask. Arterial blood gases were checked : pH 7.23 pO2 8.2 kPa pCO2 7.6 kPa HCO3- 15 mmol/L base excess -11 mmol/L [normal: -4 +/- 2] What is the abnormality in the arterial blood gas?   Mixed because bicarbonate is way too low, not only is there no compensation it is actually below normal. _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 89
+    },
+    "90": {
+        "question": "Which of the following conditions is not associated with seronegative spondyloarthropathies?",
+        "a": "Reiter\u2019s syndrome",
+        "b": "Coeliac disease",
+        "c": "Ulcerative colitis",
+        "d": "Psoriasis",
+        "e": "Beh\u00e7et\u2019s disease",
+        "correct": "B",
+        "explanation": "- celiac disease Behcet disease is associated with arthritis Celiac disease is not an inflammatory bowel disease, and associated with arthritis (UC and Crohn) _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 90
+    },
+    "91": {
+        "question": "A 64-year-old man with history of fever, progressive weight loss, cough and wheeze. P/E was",
+        "a": "Acute leukaemia",
+        "b": "Churg Strauss syndrome",
+        "c": "Eosinophilic pneumonia",
+        "d": "Idiopathic hypereosinophilia",
+        "e": "",
+        "correct": "B",
+        "explanation": "febrile (37.8\u00b0C). Respiratory examination shows that there is diffuse wheezing. Total white cell count 14 (high) Neutrophil 6.6 \u00d7 109/L Lymphocyte 1.1 \u00d7 109/L Eosinophil 7 \u00d7 109/L Platelet 5xx (high) Hb 10.x (low) Urea 18 Creatinine 180 Urine dipstick: 3+ protein, 2+ RBC. What is the diagnosis?  - Churg Strauss syndrome (eosinophilic granulomatosis with polyangiitis) Notice the renal involvement _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 91
+    },
+    "92": {
+        "question": "Interstitial lung disease is most commonly associated with which of the following rheumatic",
+        "a": "Ankylosing spondylitis",
+        "b": "Beh\u00e7et\u2019s disease",
+        "c": "Gout",
+        "d": "Scleroderma",
+        "e": "Sjogren\u2019s syndrome",
+        "correct": "D",
+        "explanation": "disease?  - Scleroderma _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 92
+    },
+    "93": {
+        "question": "Elderly man complained of difficulty in combing hair & climbing stairs for recent 2 months.",
+        "a": "Carcinoma of tongue",
+        "b": "Carcinoma of prostate",
+        "c": "Melanoma",
+        "d": "Lymphoma",
+        "e": "Nasopharyngeal carcinoma",
+        "correct": "E",
+        "explanation": "There is proximal muscle weakness in 4 limbs. Examination by MO showed heliotrope rash. Which of the following is most associated with the rheumatological condition?  - NPC _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 93
+    },
+    "94": {
+        "question": "A 30-year-old housewife presented with three months history of increasing difficulty in",
+        "a": "Anti-centromere antibodies",
+        "b": "Anti-La antibodies",
+        "c": "Anti-Ro antibodies",
+        "d": "Anti-SCL 70 antibodies",
+        "e": "Anti-Sm antibodies",
+        "correct": "A",
+        "explanation": "swallowing and Raynaud\u2019s phenomenon. Physical examination revealed tightening of skin over the dorsum of all her fingers and calcific deposits at the back of her elbows. Telangiectasia was also noted on her face. She was suspected to be suffering from CREST syndrome. Which of the following autoantibodies is most likely to be present in the patient?   Anti-centromere is specific for limited form, which is what we see here (CREST) Anti-Scl 70 aka anti-topoisomerase is specific for diffuse form, which has renal, kidney and pulmonary involvement _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 94
+    },
+    "95": {
+        "question": "Before starting TNF blocker, patient underwent Mantoux test and comes back to be strongly",
+        "a": "Should not use any biologics",
+        "b": "Treat with isoniazid for 1 month before starting TNF blocker",
+        "c": "Treat with isoniazid and TNF blocker simultaneously",
+        "d": "Treat as active TB with triple therapy for 1 month before starting TNF blocker",
+        "e": "Change to different biologics, e.g. anti-CD20",
+        "correct": "B",
+        "explanation": "positive. What is your management?   Self-explanatory _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 95
+    },
+    "96": {
+        "question": "A man presented with gout, given acute treatment by GP and noticed rather bad loose stool the",
+        "a": "Colchicine",
+        "b": "Indomethacin",
+        "c": "Allopurinol",
+        "d": "Paracetamol",
+        "e": "Etoricoxib",
+        "correct": "A",
+        "explanation": "next day. Which of the following drugs explain his diarrhoea?   Common side effect of colchicine. _",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 96
+    }
+}

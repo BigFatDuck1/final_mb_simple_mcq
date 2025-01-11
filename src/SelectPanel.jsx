@@ -1,5 +1,6 @@
 //import React from "react";
-import questions from "./questions.json";
+//import questions from "./questions.json";
+import questions from "./med.json"; //TODO: Change this to based on which json is selected
 /* eslint-disable react/prop-types */
 
 
