@@ -17,9 +17,11 @@
 
 .header {
   display: flex;
+  flex-direction: row;
   font-family: "Bebas Neue", cursive;
   font-size: 2rem;
   margin: 0;
+  justify-content: space-between;
 
 }
 .header > h3 {
@@ -98,4 +100,9 @@ p.abcde_label {
 .select_panel {
   height: 70vh;
   overflow-y: scroll;
+}
+
+.select_set {
+  padding: 0.4rem;
+  font-size: 1.2rem;
 }

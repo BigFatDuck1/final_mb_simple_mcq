@@ -1,10 +1,10 @@
 //import React from "react";
 //import questions from "./questions.json";
-import questions from "./med.json"; //TODO: Change this to based on which json is selected
 /* eslint-disable react/prop-types */
 
 
-function SelectPanel({ clickFunction }) {
+function SelectPanel({ clickFunction, current_set }) {
+    let questions = current_set;
     let questions_array = []; //Subject + Topic
     for (const id in questions) {
         questions_array.push(questions[id]);

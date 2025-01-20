@@ -3,18 +3,21 @@
 import { useState } from 'react'
 import './App.css'
 //import questions from "./questions.json";
-import med_q from "./med.json";
+import med_q from "./med_q.json";
+import sur_q from "./sur_q.json";
 
 import QuestionPanel from './QuestionPanel'
 import SelectPanel from './SelectPanel'
-
-let questions = med_q;
 
 function App() {
   const [submit, setSubmit] = useState(false); //Whether the submit button is pressed (answer submitted)
   const [answer, setAnswer] = useState(""); //The answer selected by user i.e. A, B, C, D, E
   const [questionID, setQuestionID] = useState(1); //The current question ID
   const [right_wrong, setCorrectIncorrect] = useState(""); //Whether the answer is correct or incorrect
+
+  const [questionSet, setQuestionSet] = useState(med_q); //Med (selection) is default
+
+  let questions = questionSet;
 
   function handleSubmit() {
     if (submit == false) {
@@ -58,10 +61,14 @@ function App() {
     <div className='overall_box'>
       <div className="header">
         <h3>Simple Best Answer</h3>
+        <div>
+          <button className="select_set" onClick={() => setQuestionSet(med_q)}>Med</button>
+          <button className="select_set" onClick={() => setQuestionSet(sur_q)}>Surgery</button>
+        </div>
       </div>
       <div className="main_container">
       <div className="select_panel">
-        <SelectPanel clickFunction={selectPanelClick} />
+        <SelectPanel clickFunction={selectPanelClick} current_set={questions} />
       </div>
       <div className="question_panel">
         <QuestionPanel
