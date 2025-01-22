@@ -1,15 +1,15 @@
 {
     "1": {
         "question": "Which one of the following suture materials is commonly used for skin closure in adult patients undergoing abdominal surgery? ",
-        "a": "Axillary vein at the infraclavicular area ",
-        "b": "Cephalic vein at the deltopectoral groove ",
-        "c": "Common femoral vein at groin ",
-        "d": "Popliteal vein at popliteal fossa ",
+        "a": "Axillary vein at the infraclavicular area",
+        "b": "Cephalic vein at the deltopectoral groove",
+        "c": "Common femoral vein at groin",
+        "d": "Popliteal vein at popliteal fossa",
         "e": "Subclavian vein at supraclavicular region",
         "correct": "B",
-        "explanation": "Nylon",
+        "explanation": "Nylon Absorbable: Vicryl, monocryl, PDS Non-absorbable: Nylon, Prolene Prolene generally ha slower tissue reactivity (less scarring), hence for facial wounds and vascular anastomosis __  70 years old man presenting with newly diagnosed lymphoma requiring central venous catheter for chemotherapy. Insertion via open cutdown is planned. Which of the following is the most appropriate site for access?  Cephalic vein at deltopectoral groove Cutdown method of Hickman/Broviac involves exposing the very superficial cephalic vein",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -26,7 +26,7 @@
         "correct": "B",
         "explanation": "Supratrochlear LN - lymph drains \"upwards\"",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -34,16 +34,16 @@
         "questionID": 2
     },
     "3": {
-        "question": "20 years old pregnant lady found to have node-negative 1cm breast cancer at 12 o\u2019clock 4 cm away",
+        "question": "20 years old pregnant lady found to have node-negative 1cm breast cancer at 12 o\u2019clock 4 cm away from nipple. She is in 1st trimester. Which of the followings is true?",
         "a": "Breast conservative surgery can be done",
         "b": "Chemotherapy is absolutely contraindicated",
         "c": "Sentinel LN biopsy can be done",
         "d": "Tamoxifen is safe for bridging therapy for surgery",
         "e": "TOP is recommended",
         "correct": "C",
-        "explanation": "Sentinel LN biopsy should be done.",
+        "explanation": "Sentinel LN biopsy should be done. Chemotherapy is not absolutely contraindicated, can be started in 2nd or 3rd trimester if absolutely necessary Tamoxifen is contraindicated",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -51,7 +51,7 @@
         "questionID": 3
     },
     "4": {
-        "question": "30-year-old man presented with bilateral breast mass, physical examination showed bilateral",
+        "question": "30-year-old man presented with bilateral breast mass, physical examination showed bilateral 2cm retro-areolar mass, what is the cause?",
         "a": "Abscess",
         "b": "Fibroadenoma",
         "c": "Gynecomastia",
@@ -60,7 +60,7 @@
         "correct": "C",
         "explanation": "Gynecomastia definitely more common than male breast cancer",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -68,16 +68,16 @@
         "questionID": 4
     },
     "5": {
-        "question": "Frail old lady with T1N0M0 ER PR +ve HER-ve tumour. Previous history of stroke. What is the",
+        "question": "Frail old lady with T1N0M0 ER PR +ve HER-ve tumour. Previous history of stroke. What is the most appropriate treatment?",
         "a": "MRM",
         "b": "Herceptin",
         "c": "Primary hormonal therapy",
         "d": "Palliative RT",
         "e": "",
         "correct": "D",
-        "explanation": "Palliative radiotherapy",
+        "explanation": "Palliative radiotherapy Frail: cannot tolerate mastectomy (A) HER -ve: herceptin/trastuzumab no use (B) Stroke: relative contraindication of estrogens \u00a9",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -92,9 +92,9 @@
         "d": "Neurogenic tumour",
         "e": "Lymphoma",
         "correct": "D",
-        "explanation": "Neurogenic tumor",
+        "explanation": "Neurogenic tumor Common causes: Anterior \u2013 thymoma, thymic carcinoma, thymolipoma, thymic cyst, lymphoma, GCT, thyroid Middle \u2013 esophageal, parathyroid adenoma, bronchogenic cyst, esophageal ductal cyst, tracheal tumour, pericardiac cyst Posterior \u2013 neurogenic tumour, neuroendocrine tumour",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -111,7 +111,7 @@
         "correct": "D",
         "explanation": "Endocardial biopsy is routine after transplant",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -126,9 +126,9 @@
         "d": "Roller pump",
         "e": "Ventilator",
         "correct": "E",
-        "explanation": "Ventilator",
+        "explanation": "Ventilator Simplified diagram: https://www.ebme.co.uk/images/arts/cpb/cardiopulmonary-bypass-machine-2.jpg",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -143,9 +143,9 @@
         "d": "Hypertension",
         "e": "Previous coronary artery stenting",
         "correct": "B",
-        "explanation": "Female, see here",
+        "explanation": "Female, see here https://www.euroscore.org/index.php?id=17",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -160,9 +160,9 @@
         "d": "Pedicle left internal mammary artery",
         "e": "Pedicle right internal mammary artery",
         "correct": "D",
-        "explanation": "Pedicle left internal mammary artery",
+        "explanation": "Pedicle left internal mammary artery Just memorize",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -170,7 +170,7 @@
         "questionID": 10
     },
     "11": {
-        "question": "In the assessment of a suspected primary lung carcinoma, fibre-optic bronchoscopy can",
+        "question": "In the assessment of a suspected primary lung carcinoma, fibre-optic bronchoscopy can potentially provide all of the following except:",
         "a": "Assessment of airway stenosis",
         "b": "Assessment of inferior mediastinal lymph node metastasis",
         "c": "Assessment of T staging",
@@ -179,7 +179,7 @@
         "correct": "B",
         "explanation": "Inferior mediastinal lymph node group is way below and inaccessible through the bronchus",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -187,16 +187,16 @@
         "questionID": 11
     },
     "12": {
-        "question": "46/M. CA lung in the right upper lobe with hoarseness. Smoker since 16 years old. Which is the",
+        "question": "46/M. CA lung in the right upper lobe with hoarseness. Smoker since 16 years old. Which is the most suggestive of distant spread?",
         "a": "Hypercalcemia",
         "b": "Pancoast syndrome",
         "c": "SIADH",
         "d": "Gynaecomastia",
         "e": "Cushing-like syndrome",
         "correct": "A",
-        "explanation": "Hypercalcemia",
+        "explanation": "Hypercalcemia Hypercalcemia suggests bone met, as 80% of hypercalcemia is due to bone metastasis while only 20% is PTHrP mediated. C, D, E are all paraneoplastic syndromes, not a result of metastasis.",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -211,9 +211,9 @@
         "d": "Trapping of air inside thoracic cavity causing midline shift of internal organs",
         "e": "Segmental atelectasis",
         "correct": "A",
-        "explanation": "Atrial fibrillation",
+        "explanation": "Atrial fibrillation E (atelectasis) is the most common pulmonary complication, but A (Afib) is the most common overall complication",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -221,16 +221,16 @@
         "questionID": 13
     },
     "14": {
-        "question": "32 year old female with good past health. Incidental finding of a 5 cm mass at anterior mediastinum. Surgery",
+        "question": "32 year old female with good past health. Incidental finding of a 5 cm mass at anterior mediastinum. Surgery was planned. The routine preoperative workup would include the following EXCEPT:",
         "a": "Serum AFP",
         "b": "Serum anti-cholinergic receptor autoantibodies",
         "c": "Serum thyroxine",
         "d": "Mediastinoscopy",
         "e": "Ultrasound guided percutaneous biopsy",
         "correct": "D",
-        "explanation": "Mediastinoscopy used for middle and posterior mediastinum.",
+        "explanation": "Mediastinoscopy used for middle and posterior mediastinum. AFP looks for germ cell tumor; Thyroxine for thyroid; AChR autoantibodies because of thymoma/MG",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -247,7 +247,7 @@
         "correct": "C",
         "explanation": "Drainage is not an indication because drainage should be surgical, not through colonoscopy",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -264,7 +264,7 @@
         "correct": "A",
         "explanation": "Cefuroxime because we want gram negative activity against enteric bacteria",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -281,7 +281,7 @@
         "correct": "E",
         "explanation": "Because it is retroperitoneal",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -296,9 +296,9 @@
         "d": "Anus",
         "e": "Lung",
         "correct": "B",
-        "explanation": "Just memorize midgut",
+        "explanation": "Just memorize midgut It is small bowel that is the most common site",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -313,9 +313,9 @@
         "d": "Endoscopic treatment is the mainstay of treatment for angiodysplasia",
         "e": "If bleeding source cannot be identified, blind right hemicolectomy should be performed to",
         "correct": "D",
-        "explanation": "Endoscopic treatment is correct",
+        "explanation": "can be excluded bleeding stop spontaneously control bleeding  Endoscopic treatment is correct A need bilious B need some bleeding to be detected C should be larger than 10% E what if it's the left colon that's bleeding?",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -330,9 +330,9 @@
         "d": "Right sided CA colon has worse prognosis than left sided CA",
         "e": "Pre-op CEA level signifies the prognosis",
         "correct": "D",
-        "explanation": "Right sided has better prognosis",
+        "explanation": "Right sided has better prognosis Left-sided more likely to lead to obstruction and more operations and thus worse prognosis Right-sided usually discovered at earlier stage",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -340,16 +340,16 @@
         "questionID": 20
     },
     "21": {
-        "question": "Which of the following statement about malignancy associated with ulcerative colitis is",
+        "question": "Which of the following statement about malignancy associated with ulcerative colitis is CORRECT?",
         "a": "Better prognosis than that not associated with UC",
         "b": "Related to activity of disease",
         "c": "Related to duration of disease",
         "d": "Follow adenoma-carcinoma sequence",
         "e": "Malignancy more common in anorectal UC",
         "correct": "C",
-        "explanation": "Related to duration of disease",
+        "explanation": "Related to duration of disease D need random biopsy because does not follow FAP-like sequence",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -357,16 +357,16 @@
         "questionID": 21
     },
     "22": {
-        "question": "50/M presented with bloody diarrhoea and mucus with distended abdomen and low grade fever.",
+        "question": "50/M presented with bloody diarrhoea and mucus with distended abdomen and low grade fever. AXR showed dilated transverse colon with diameter of 8 cm. What is the most appropriate management?",
         "a": "Colonoscopic decompression with flatus tube",
         "b": "Emergency ileostomy",
         "c": "Emergency extended right hemicolectomy",
         "d": "Emergency total colectomy with end ileostomy",
         "e": "Emergency protocolectomy with ileal anal anastomosis",
         "correct": "D",
-        "explanation": "Total colectomy with end ileostomy",
+        "explanation": "Total colectomy with end ileostomy From Uptodate: Patients who fail to respond to one of the second-line agents (infliximab or cyclosporine) after another three days require surgery. Patients who develop toxic m\u0435g\u0430\u03f2\u043el\u043e\u0578 while on either infliximab or cyclosporine should undergo surgery without delay. For patients who require emergency surgery for \u0399\u0392D-related toxic m\u0435g\u0430\u0441\u03bfl\u03bfn, we suggest subtotal \u03f2\u03bfle\u03f2t\u03bfm\u0443 with end ileostomy rather than a single-stage \u0440r\u03bf\u03f2t\u03bf\u03f2\u03bfle\u03f2t\u03bfmy [3]. Subtotal \u03f2\u03bfl\u0435\u0441t\u043em\u0443 has a lower morbidity and mortality and permits subsequent anastomosis in most patients. The surgical mortality is much lower without than with colonic perforation (2 to 8 versus 40 percent or more)",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -374,7 +374,7 @@
         "questionID": 22
     },
     "23": {
-        "question": "A 27 years old male with low CA rectum extended to anal canal. Colonoscopy shows hundreds",
+        "question": "A 27 years old male with low CA rectum extended to anal canal. Colonoscopy shows hundreds of colonic polyps. What is your management?",
         "a": "APR",
         "b": "Anterior resection",
         "c": "Panproctocolectomy with ileostomy",
@@ -383,7 +383,7 @@
         "correct": "D",
         "explanation": "Ileal pouch anatomosis involves separating ileus from small bowel, then using this ileus to act as a rectum.",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -391,16 +391,16 @@
         "questionID": 23
     },
     "24": {
-        "question": "A 60 years old gentleman has carcinoma of oral tongue. What is the MOST common level of neck",
+        "question": "A 60 years old gentleman has carcinoma of oral tongue. What is the MOST common level of neck lymph node metastasis?",
         "a": "I",
         "b": "II",
         "c": "III",
         "d": "IV",
         "e": "V",
         "correct": "B",
-        "explanation": "Tongue to level II",
+        "explanation": "Tongue to level II https://pmc.ncbi.nlm.nih.gov/articles/PMC166158/",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -408,7 +408,7 @@
         "questionID": 24
     },
     "25": {
-        "question": "50 years old clerk complained of a mass over the left neck region for three months without",
+        "question": "50 years old clerk complained of a mass over the left neck region for three months without other symptoms. Physical examination showed a 3 cm mass over left level II. Examination of the  mouth, throat and ear were all normal. What is the MOST appropriate investigation to do?",
         "a": "Excision biopsy of the mass",
         "b": "Chest X-ray",
         "c": "Complete blood picture",
@@ -417,7 +417,7 @@
         "correct": "D",
         "explanation": "FNAC is sufficient as it is less invasive",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -425,16 +425,16 @@
         "questionID": 25
     },
     "26": {
-        "question": "A mother brings her 4 years old son with yellowish, purulent and foul smelling rhinorrhoea from",
+        "question": "A mother brings her 4 years old son with yellowish, purulent and foul smelling rhinorrhoea from his right nostril for the 3 weeks. He is otherwise healthy. The MOST likely diagnosis is:",
         "a": "Previously undiagnosed unilateral choanal atresia",
         "b": "Sinusitis",
         "c": "Foreign body",
         "d": "Allergic rhinitis",
         "e": "Atrophic rhinitis",
         "correct": "C",
-        "explanation": "Foreign body",
+        "explanation": "Foreign body Right nostril only - most pathologies affect both nostrils because air goes in both nostrils Abrupt beginning of symptoms and foul-smelling suggests blockage and suppuration",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -442,16 +442,16 @@
         "questionID": 26
     },
     "27": {
-        "question": "70-year-old gentleman presents with hoarseness. He has a newly diagnosed carcinoma of the",
+        "question": "70-year-old gentleman presents with hoarseness. He has a newly diagnosed carcinoma of the oesophagus. He also complains of choking on fluid diet.  Examination shows he has a breathy weak voice. What is the MOST LIKELY cause of the choking?",
         "a": "Acute laryngitis",
         "b": "Laryngopharyngeal reflux",
         "c": "Reinke\u2019s oedema",
         "d": "Vocal cord paralysis",
         "e": "Vocal cord polyp",
         "correct": "D",
-        "explanation": "Vocal cord paralysis",
+        "explanation": "Vocal cord paralysis Weak voice and hoarseness suggests of recurrent laryngeal nerve involvement",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -466,9 +466,9 @@
         "d": "Sternocleidomastoid muscle",
         "e": "Submandibular gland",
         "correct": "B",
-        "explanation": "Preserved: hypoglossal nerve",
+        "explanation": "Preserved: hypoglossal nerve Original (not modified) removes A, C and D as well",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -485,7 +485,7 @@
         "correct": "D",
         "explanation": "Lingual nerve palsy",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -502,7 +502,7 @@
         "correct": "C",
         "explanation": "Radiotherapy",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -519,7 +519,7 @@
         "correct": "A",
         "explanation": "Anterior belly of digastric muscle is innervated by maxillary nerve (CN V/trigeminal nerve)'s mylohyoid branch",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -527,7 +527,7 @@
         "questionID": 31
     },
     "32": {
-        "question": "A 25 years old man with locally advanced CA tongue underwent resection and",
+        "question": "A 25 years old man with locally advanced CA tongue underwent resection and chemoradiotherapy. Which is not an indication for the latter?",
         "a": "Extracapsular spread of lymph node metastases",
         "b": "Microscopic lymph node metastasis",
         "c": "Positive margin",
@@ -536,7 +536,7 @@
         "correct": "E",
         "explanation": "Young age by itself is not an indication for additional adjuvant therapy after resection. It is only when disease is inadequately treated or there is high risk of resection that chemoradiation is indicated.",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -544,16 +544,16 @@
         "questionID": 32
     },
     "33": {
-        "question": "A 50 years old gentleman complains of dizziness and left sensorineural hearing loss for 3 months.",
+        "question": "A 50 years old gentleman complains of dizziness and left sensorineural hearing loss for 3 months. He was found to have a left CPA tumour. Which of the following is correct?",
         "a": "Facial nerve palsy is an early presentation",
         "b": "It is associated with right sided facial numbness",
         "c": "He may have weak mastication",
         "d": "Acoustic neuroma is not likely to respond to radiotherapy",
         "e": "The most common pathology is medulloblastoma",
         "correct": "C",
-        "explanation": "Trigeminal nucleus affected",
+        "explanation": "Trigeminal nucleus affected Facial nerve palsy not as early as auditory or vestibular involvement Should be left sided Acoustic neuroma should respond Neuroblastoma unlikely in 50 years old",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -561,16 +561,16 @@
         "questionID": 33
     },
     "34": {
-        "question": "24 year old young lady recently has been into opera singing. However, she starts to have",
+        "question": "24 year old young lady recently has been into opera singing. However, she starts to have hoarseness, worse after prolonged practice for a recent concert. She comes in for consultation, investigation shows edema in bilateral true vocal cords with early vocal nodules. She wants to be able to continue singing without affecting her voice in the future. What is the MOST",
         "a": "Refrain from singing for 6 months",
         "b": "Early microlaryngoscopy and laser ablation of vocal cord nodule",
         "c": "High dose oral non-steroidal anti-inflammatory drugs for 2 weeks",
         "d": "High dose oral systemic steroids for 2 weeks",
         "e": "Refer to speech therapist for voice rehabilitation",
         "correct": "E",
-        "explanation": "Benign vocal cord lesions \u2014 Treatment for polypoid corditis, polyps, and nodules includes \u0455m\u043eking cessation, reflux management, and voice therapy. Intralesional steroid injection has been shown to be beneficial. \u0405\u057drgi\u03f2al debulking/recontouring may be necessary in certain cases or when focal irregularity warrants biopsy. (Uptodate)",
+        "explanation": "APPROPRIATE action?  Benign vocal cord lesions \u2014 Treatment for polypoid corditis, polyps, and nodules includes \u0455m\u043eking cessation, reflux management, and voice therapy. Intralesional steroid injection has been shown to be beneficial. \u0405\u057drgi\u03f2al debulking/recontouring may be necessary in certain cases or when focal irregularity warrants biopsy. (Uptodate)",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -578,7 +578,7 @@
         "questionID": 34
     },
     "35": {
-        "question": "38 years old young man, non-smoker non-drinker, allegedly good past health. Progressive neck",
+        "question": "38 years old young man, non-smoker non-drinker, allegedly good past health. Progressive neck swelling for 3 months, cervical lymph nodes level II and III with overlying ?cellulitic changes. Oral examination unremarkable. Upper endoscopy no mucosal lesion found. Biopsy of lymph node shows differentiated SCC with p16+. Where is the most likely source?",
         "a": "Larynx",
         "b": "Hypopharynx",
         "c": "Tonsil",
@@ -587,7 +587,7 @@
         "correct": "C",
         "explanation": "Tonsil",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -595,16 +595,16 @@
         "questionID": 35
     },
     "36": {
-        "question": "90/M old age home resident, not communicable, bed-bound after stroke 10 years ago. Present",
+        "question": "90/M old age home resident, not communicable, bed-bound after stroke 10 years ago. Present with pre-auricular swelling. Fever with 38 degrees and other vitals stable. Physical examination",
         "a": "Infected sebaceous cyst",
         "b": "Lymphadenitis",
         "c": "Metastatic lymphadenopathy",
         "d": "Parotitis",
         "e": "",
         "correct": "D",
-        "explanation": "Preauricular corresponds to location of parotid gland, and the ampulla with pus discharge is Stensen's duct",
+        "explanation": "shows 5cm pre-auricular swelling with overlying cellulitic skin changes. Oral cavity exam shows edematous ampulla with pus discharge. What is the most likely diagnosis?  Preauricular corresponds to location of parotid gland, and the ampulla with pus discharge is Stensen's duct",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -621,7 +621,7 @@
         "correct": "E",
         "explanation": "Younger patient have better outcomes",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -636,9 +636,9 @@
         "d": "Thyroid radionucleotide scan",
         "e": "Ultrasound of cyst",
         "correct": "E",
-        "explanation": "USG can help distinguish between solid and cystic components, as well as assess the relationship of the cyst to surrounding structures, including any associated thyroid tissue",
+        "explanation": "USG can help distinguish between solid and cystic components, as well as assess the relationship of the cyst to surrounding structures, including any associated thyroid tissue Worst case is this is a solitary ectopic thyroid and you have resected it Radionucleotide useful if ectopic thyroid tissue is suspected, but they are not routinely necessary for uncomplicated thyroglossal cysts",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -653,9 +653,9 @@
         "d": "Diarrhoea",
         "e": "Hypoglycaemia",
         "correct": "B",
-        "explanation": "Biliary colic is right answer, MEN 1 consists of",
+        "explanation": "Biliary colic is right answer, MEN 1 consists of Parathyroid Pancreatic Pituitary",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -672,7 +672,7 @@
         "correct": "C",
         "explanation": "Medullary CA",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -687,9 +687,9 @@
         "d": "Radioactive iodine ablation",
         "e": "",
         "correct": "D",
-        "explanation": "Lifelong active surveillance is now accepted for very low risk",
+        "explanation": "microcarcinoma?  Lifelong active surveillance is now accepted for very low risk",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -704,9 +704,9 @@
         "d": "Ligation of bleeder",
         "e": "Suturing of ulcer",
         "correct": "C",
-        "explanation": "Adrenaline injection",
+        "explanation": "benign gastric ulcer?  Adrenaline injection",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -723,7 +723,7 @@
         "correct": "D",
         "explanation": "GI bleed",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -731,7 +731,7 @@
         "questionID": 43
     },
     "44": {
-        "question": "In patients with esophageal cancer, among the symptoms below, the one indicating the WORST",
+        "question": "In patients with esophageal cancer, among the symptoms below, the one indicating the WORST prognosis is:",
         "a": "Hoarseness of voice",
         "b": "Odynophagia",
         "c": "Dysphagia",
@@ -740,7 +740,7 @@
         "correct": "A",
         "explanation": "Recurrent laryngeal nerve invasion",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -748,16 +748,16 @@
         "questionID": 44
     },
     "45": {
-        "question": "A 50 years old gentleman with good past health complained of passage of tarry stool. His blood",
+        "question": "A 50 years old gentleman with good past health complained of passage of tarry stool. His blood pressure and pulse rate were 80/50mmHg and 125 bpm respectively. Abdominal examination was",
         "a": "Start an intravenous infusion of proton pump inhibitor",
         "b": "Administer intravenous dopamine",
         "c": "Repeat endoscopy a few hours later",
         "d": "Arrange an emergency superior mesenteric angiogram",
         "e": "Arrange an emergency operation",
         "correct": "E",
-        "explanation": "Crashing vitals",
+        "explanation": "unremarkable. Per rectal examination revealed fresh melaena. Upper endoscopy revealed esophagus normal. The stomach was full of fresh blood and blood clots. The bleeding source could not be identified. The MOST appropriate active at this point is to:  Crashing vitals",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -772,9 +772,9 @@
         "d": "Gastro-esophageal reflux is a consistent feature",
         "e": "Severe dysplasia is an indication for esophagectomy",
         "correct": "E",
-        "explanation": "Severe dysplasia is an indication",
+        "explanation": "the stomach  Severe dysplasia is an indication",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -783,15 +783,15 @@
     },
     "47": {
         "question": "In a patient with Boerhaave syndrome, the MOST LIKELY site of esophageal perforation is: ",
-        "a": "Cervical esophagus on the left side ",
-        "b": "Cervical esophagus on the right side ",
-        "c": "Lower esophagus on the left side ",
-        "d": "Lower esophagus on the right side ",
+        "a": "Cervical esophagus on the left side",
+        "b": "Cervical esophagus on the right side",
+        "c": "Lower esophagus on the left side",
+        "d": "Lower esophagus on the right side",
         "e": "Middle esophagus on the right side",
         "correct": "C",
         "explanation": "Memorize lower, left",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -800,15 +800,15 @@
     },
     "48": {
         "question": "A lady with family history of FAP. History of pancolectomy for FAP of colon. Recent endoscopy shows two 1\u20132 cm polyps at the fundus and body of stomach. What is the most likely diagnosis? ",
-        "a": "FAP of the stomach ",
-        "b": "Fundic gland polyps ",
-        "c": "Hyperplastic polyps ",
-        "d": "Juvenile polyps ",
+        "a": "FAP of the stomach",
+        "b": "Fundic gland polyps",
+        "c": "Hyperplastic polyps",
+        "d": "Juvenile polyps",
         "e": "Peutz-Jegher syndrome",
         "correct": "B",
         "explanation": "Fundic gland polyps",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -825,7 +825,7 @@
         "correct": "D",
         "explanation": "Hyperplastic common in places where H. pylori prevalence is high (Hong Kong)",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -834,15 +834,15 @@
     },
     "50": {
         "question": "Most likely to be found in submucosal layer of stomach: ",
-        "a": "Adenoma ",
-        "b": "Ectopic pancreas ",
-        "c": "Gastrointestinal stromal tumour ",
-        "d": "MALT lymphoma ",
+        "a": "Adenoma",
+        "b": "Ectopic pancreas",
+        "c": "Gastrointestinal stromal tumour",
+        "d": "MALT lymphoma",
         "e": "Signet ring cell carcinoma",
         "correct": "B",
-        "explanation": "Ectopic pancreas",
+        "explanation": "Ectopic pancreas -GIST can be submucosal but not as specific -MALT is from mucosa (mucosa-associated)",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -852,14 +852,14 @@
     "51": {
         "question": "Day 6 post op 3 stage esophagectomy, neck wound red and indurated. CXR clear. SpO2 93% on 50% O2. A. UTI ",
         "a": "UTI",
-        "b": "Wound infection ",
-        "c": "Aspiration pneumonia ",
+        "b": "Wound infection",
+        "c": "Aspiration pneumonia",
         "d": "Anastomotic leakage",
         "e": "",
         "correct": "D",
         "explanation": "Anastomotic leakage",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -874,9 +874,9 @@
         "d": "Has the pectineal ligament as its posterior border",
         "e": "Contains the spermatic cord",
         "correct": "D",
-        "explanation": "The femoral canal (usu containing LN) lies below the inguinal ligament medially and lies medial to the femoral vessels. The femoral sheath is formed",
+        "explanation": "The femoral canal (usu containing LN) lies below the inguinal ligament medially and lies medial to the femoral vessels. The femoral sheath is formed by the transversalis fascia and encloses the femoral vessels and the femoral canal. The lacunar ligament forms the medial border of the femoral canal. The femoral vein lies lateral to the femoral canal. A \u2013 lie medial to femoral vein B \u2013 has lacunar ligament as medial border C \u2013 has femoral v. as lateral border E \u2013 contain LN of Cloquet, lymphatics, adipose tissues",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -893,7 +893,7 @@
         "correct": "C",
         "explanation": "Patient unfit for GA",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -908,9 +908,9 @@
         "d": "Should not be performed early in acute pancreatitis",
         "e": "Should not be done in jaundiced patient with serum bilirubin > 300 umol/L",
         "correct": "B",
-        "explanation": "Not direct visualization, it is by contrast (A)",
+        "explanation": "(ERCP) is TRUE?  Not direct visualization, it is by contrast (A) Klatskin tumor by brush cytology, very hard to diagnose (C) Why cannot be performed early if indicated? (D) No reason why it shouldn't be done especially if obstructive jaundice (E)",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -927,7 +927,7 @@
         "correct": "D",
         "explanation": "Because of bowel gas obscuring the CBD",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -944,7 +944,7 @@
         "correct": "B",
         "explanation": "Alk phos more indicative of bile duct patency",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -952,7 +952,7 @@
         "questionID": 56
     },
     "57": {
-        "question": "A 42 years old man was diagnosed with necrotizing pancreatitis secondary to cholelithiasis. He",
+        "question": "A 42 years old man was diagnosed with necrotizing pancreatitis secondary to cholelithiasis. He was admitted to ITU for intensive supportive treatment and \u201cpancreatic rest\u201d. Which of the following regimen is MOST APPROPRIATE?",
         "a": "Enteral feeding via nasogastric tube",
         "b": "Enteral feeding via nasojejunal tube",
         "c": "Enteral feeding via percutaneous enteroscopy gastrotomy",
@@ -961,7 +961,7 @@
         "correct": "E",
         "explanation": "Not NJ tube because this is not just acute pancreatitis",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -976,9 +976,9 @@
         "d": "Long-term memory loss",
         "e": "Right homonymous lower quadrantanopia",
         "correct": "B",
-        "explanation": "A: Expressive aphasia in LEFT sided FRONTAL lobe (Broca), don't confuse with receptive (Wernicke, temporal)",
+        "explanation": "A: Expressive aphasia in LEFT sided FRONTAL lobe (Broca), don't confuse with receptive (Wernicke, temporal) C: Gerstmann syndrome typically left parietal lobe (or parietal temporal junction) D: Hippocampus E: would be left sided lesion instead Temporal radiation is lower than parietal radiation so the visual field loss would be upper",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -995,7 +995,7 @@
         "correct": "D",
         "explanation": "The fontanelles release some of the pressure in neonates",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -1010,9 +1010,9 @@
         "d": "Early MRI can detect blood in subarachnoid space",
         "e": "Embolization is only indicated if clipping fail",
         "correct": "C",
-        "explanation": "Vasospasm occur on day 4 to 5 onwards",
+        "explanation": "Vasospasm occur on day 4 to 5 onwards Don\u2019t need MRI to detect blood",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -1020,7 +1020,7 @@
         "questionID": 60
     },
     "61": {
-        "question": "A 35 years old lady had a history of head injury one week ago. She now complained of sudden",
+        "question": "A 35 years old lady had a history of head injury one week ago. She now complained of sudden onset of redness and swelling of the right eye.",
         "a": "Carotid-cavernous fistula",
         "b": "Meningitis",
         "c": "Ophthalmic artery thrombosis",
@@ -1029,7 +1029,7 @@
         "correct": "A",
         "explanation": "Carotid-cavernous fistula",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -1037,16 +1037,16 @@
         "questionID": 61
     },
     "62": {
-        "question": "An 18 years old student was injured in a football game. On admission, his GCS was 14/15 and",
+        "question": "An 18 years old student was injured in a football game. On admission, his GCS was 14/15 and CT scan showed a 2 cm right side epidural haematoma. Which of the following is the most",
         "a": "Barbiturate coma",
         "b": "Burr hole drainage",
         "c": "Craniotomy",
         "d": "Endotracheal intubation and hyperventilation",
         "e": "Intracranial pressure monitoring",
         "correct": "C",
-        "explanation": "Burr hole too small to drain the clot",
+        "explanation": "appropriate treatment?  Burr hole too small to drain the clot",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -1054,16 +1054,16 @@
         "questionID": 62
     },
     "63": {
-        "question": "50/F with subarachnoid haemorrhage due to ruptured anterior communicating artery aneurysm.",
+        "question": "50/F with subarachnoid haemorrhage due to ruptured anterior communicating artery aneurysm. Clipping was done and on post-op day 5, she was found to be drowsy. CT brain revealed normalsized ventricles and no evidence of rebleeding. Which of the following is the most appropriate",
         "a": "Fluid restriction",
         "b": "High dose steroid",
         "c": "Lumbar puncture",
         "d": "Mannitol infusion",
         "e": "Maintain intravascular volume",
         "correct": "E",
-        "explanation": "Likely vasospasm",
+        "explanation": "management?  Likely vasospasm Triple H therapy: induced hypertension, hypervolemia, and hemodilution",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -1078,9 +1078,9 @@
         "d": "Scalp vein visible",
         "e": "Increases head circumference",
         "correct": "B",
-        "explanation": "Drainage can be therapeutic for conditions like NPH (normal pressure hydrocephalus)",
+        "explanation": "Drainage can be therapeutic for conditions like NPH (normal pressure hydrocephalus) A - common cause of dementia so cognitive functions affected C - common cause is idiopathic/unknown D - not relevant E - sutures fused in adults",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -1095,9 +1095,9 @@
         "d": "Spontaneous extensor tendon rupture in the hand can be treated conservatively in most",
         "e": "Atlanto-axial (C1/C2) subluxation can be diagnosed by open mouth view of the C1/C2",
         "correct": "C",
-        "explanation": "Females more common (A)",
+        "explanation": "joint (MCPJ) patients  Females more common (A) DIP usually spared Extensor tendon rupture should be repaired AA subluxation should require supplementary assessment like flexion-extension views",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -1114,7 +1114,7 @@
         "correct": "A",
         "explanation": "Urinary retention",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -1131,7 +1131,7 @@
         "correct": "C",
         "explanation": "Farmland injuries with gross contamination also counts as class III, so option A is also part of Gustilo Anderson classification",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -1146,9 +1146,9 @@
         "d": "Thumb extension",
         "e": "Wrist extension",
         "correct": "A",
-        "explanation": "Little finger abduction: APB is median nerve, but APL is by radial nerve",
+        "explanation": "Little finger abduction: APB is median nerve, but APL is by radial nerve Index finger extension: This function is directly affected by the radial nerve, as it innervates the muscles responsible for extending the index finger. Thumb abduction: While thumb abduction is primarily controlled by the median nerve, it can also be influenced by the radial nerve through its branches. However, weakness in thumb abduction can occur in radial nerve palsy due to overall hand dysfunction. Thumb extension: This is a key function affected by radial nerve palsy, as the radial nerve innervates the muscles responsible for extending the thumb. Wrist extension: This is also significantly impacted in radial nerve palsy, leading to \"wrist drop,\" a hallmark sign of this condition.",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -1163,9 +1163,9 @@
         "d": "It most commonly involves the epiphysis of long bone",
         "e": "It primarily affects elderly",
         "correct": "C",
-        "explanation": "Codman triangle is not specific, while sunburst is but it is a late sign",
+        "explanation": "Codman triangle is not specific, while sunburst is but it is a late sign Involves metaphysis, not diaphysis Involves adolescents more",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -1173,16 +1173,16 @@
         "questionID": 69
     },
     "70": {
-        "question": "A 40 years old gentleman has sustained an isolated left femoral diaphyseal fracture in traffic",
+        "question": "A 40 years old gentleman has sustained an isolated left femoral diaphyseal fracture in traffic accident. There is no other injuries. Which of the following is the best treatment for the fracture?",
         "a": "Bone graft",
         "b": "External fixation",
         "c": "Intramedullary nail",
         "d": "Plate fixation",
         "e": "Traction in bed for 1 month, then change to functional bracing",
         "correct": "C",
-        "explanation": "This is a shaft fracture, 95% treated with IM nail, conservative treatment not recommended unless cannot tolerate operation",
+        "explanation": "This is a shaft fracture, 95% treated with IM nail, conservative treatment not recommended unless cannot tolerate operation If distal femoral fracture, consider plates > retrograde IM nail. Retrograde intramedullary nail has better distal fixation but runs risk of further insult to knee joint and risk of septic arthritis of knee.",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -1197,9 +1197,9 @@
         "d": "Pain",
         "e": "Swelling",
         "correct": "B",
-        "explanation": "Instability =/= give way",
+        "explanation": "Instability =/= give way Give way means subjective feeling of instability, but instability implies actual structural instability",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -1216,7 +1216,7 @@
         "correct": "B",
         "explanation": "Because somatotropic arrangement of lateral corticospinal tract is upper limb is central (medial) and lower limbs lateral",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -1224,16 +1224,16 @@
         "questionID": 72
     },
     "73": {
-        "question": "A 10-year-old boy who is overweight, complained of sudden onset right hip pain and inability",
+        "question": "A 10-year-old boy who is overweight, complained of sudden onset right hip pain and inability to bear weight. Examination showed decreased right hip range of motion and obligatory external rotation on passive flexion of the hip. What is the MOST APPROPRIATE investigation?",
         "a": "Complete blood count and inflammatory markers",
         "b": "Magnetic resonance imaging of both hips",
         "c": "Right hip aspiration",
         "d": "Xray anteroposterior and frog position of both hips",
         "e": "",
         "correct": "D",
-        "explanation": "Remember to get frog-legged view for comparison",
+        "explanation": "Remember to get frog-legged view for comparison No need MRI",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -1248,9 +1248,9 @@
         "d": "Tenderness at medial arch",
         "e": "",
         "correct": "A",
-        "explanation": "Hindfoot at valgus when tiptoeing displays the too many toes sign classical of PTTD (posterior tibialis tendon dysfunction)",
+        "explanation": "tiptoe?  Hindfoot at valgus when tiptoeing displays the too many toes sign classical of PTTD (posterior tibialis tendon dysfunction)",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -1265,9 +1265,9 @@
         "d": "Should be repaired at one month of age",
         "e": "Occurs more commonly in male if it is isolated cleft palate",
         "correct": "A",
-        "explanation": "More common in females",
+        "explanation": "More common in females Repaired at 6 months to 1 years old",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -1282,9 +1282,9 @@
         "d": "As early as possible once diagnosis is made",
         "e": "Before going to school",
         "correct": "D",
-        "explanation": "No need to wait as there is always risk of strangulation",
+        "explanation": "No need to wait as there is always risk of strangulation Unlike umbilical hernia which self resolves",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -1299,9 +1299,9 @@
         "d": "Immediately following completion of contrast injection",
         "e": "30 minutes postinjection",
         "correct": "D",
-        "explanation": "Kidneys: appear 1 minute after contrast injection",
+        "explanation": "Kidneys: appear 1 minute after contrast injection Pelvic and calyces: 2 minutes Ureters: 5-10 minutes",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -1318,7 +1318,7 @@
         "correct": "B",
         "explanation": "Prickling/burning sensation in face or neck is a specific sign in conscious, alert patients",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -1326,16 +1326,16 @@
         "questionID": 78
     },
     "79": {
-        "question": "In a patient with a history of heparin-induced thrombocytopenia, which of the following is the",
+        "question": "In a patient with a history of heparin-induced thrombocytopenia, which of the following is the BEST treatment option when he develops acute deep vein thrombosis of the lower limb?",
         "a": "Heparin",
         "b": "Low molecular weight heparin",
         "c": "Hirudin",
         "d": "Aspirin",
         "e": "None of the above",
         "correct": "C",
-        "explanation": "Hirudin is a protease extracted from bloodsucking leeches that function as a thrombin inhibitor",
+        "explanation": "Hirudin is a protease extracted from bloodsucking leeches that function as a thrombin inhibitor If you know dabigatran is the treatment for HIT, then hirudin is the same mechanism",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -1343,7 +1343,7 @@
         "questionID": 79
     },
     "80": {
-        "question": "A 60 years old gentleman was admitted to the Accident and Emergency Department because of",
+        "question": "A 60 years old gentleman was admitted to the Accident and Emergency Department because of abdominal pain. The blood pressure was 80/40 mmHg with a pulse of 120/min. Physical examination revealed a pulsatile abdominal mass. What is the IMMEDIATE step of management?",
         "a": "Urgent CT scan",
         "b": "Urgent Angiogram",
         "c": "Urgent MRI",
@@ -1352,7 +1352,7 @@
         "correct": "D",
         "explanation": "Crashing vitals -> surgery",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -1360,16 +1360,16 @@
         "questionID": 80
     },
     "81": {
-        "question": "A 60 years old gentleman with brain tumour underwent craniotomy two days ago. He developed",
+        "question": "A 60 years old gentleman with brain tumour underwent craniotomy two days ago. He developed shortness of breath and was diagnosed to have pulmonary embolism. He was mildly dyspnoeic and the haemodynamic status was stable. What should be the MOST appropriate treatment?",
         "a": "Systemic heparin",
         "b": "Subcutaneous low molecular weight heparin",
         "c": "Thrombolytic therapy",
         "d": "Insertion of Caval filter",
         "e": "Pulmonary embolectomy",
         "correct": "D",
-        "explanation": "IVC filter because patient is hemodynamically stable",
+        "explanation": "IVC filter because patient is hemodynamically stable In the same logic as LMWH vs. TPA",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -1377,7 +1377,7 @@
         "questionID": 81
     },
     "82": {
-        "question": "A 55 years old diabetic lady developed an ulcer on plantar surface of the first metatarsal head of",
+        "question": "A 55 years old diabetic lady developed an ulcer on plantar surface of the first metatarsal head of her left foot. The ulcer bed is covered with pink granulation tissue. What is the MOST LIKELY underlying pathology?",
         "a": "Gouty tophus ulcer",
         "b": "Infected ulcer",
         "c": "Ischemic ulcer",
@@ -1386,7 +1386,7 @@
         "correct": "E",
         "explanation": "Neuropathic ulcer, not infected or ischemic, healing is progressing normal, it is just disrupted by loss of pain sensation so the patient did not protect it from further abuse",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -1394,7 +1394,7 @@
         "questionID": 82
     },
     "83": {
-        "question": "A 63 years old lady presents with discomfort in left calf after walking 200 metres. The pedal",
+        "question": "A 63 years old lady presents with discomfort in left calf after walking 200 metres. The pedal pulses were palpable. There were no tissue loss or gangrene. The ABI is 1.02. Which of the following is most appropriate to do?",
         "a": "Observe",
         "b": "Duplex ultrasound of leg",
         "c": "Angiogram of leg",
@@ -1403,7 +1403,7 @@
         "correct": "B",
         "explanation": "Duplex ultrasound of leg to rule out other differential first.",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -1411,7 +1411,7 @@
         "questionID": 83
     },
     "84": {
-        "question": "Lady with repeated amaurosis fugax. Ultrasound found 90% stenosis in carotid artery and",
+        "question": "Lady with repeated amaurosis fugax. Ultrasound found 90% stenosis in carotid artery and internal carotid artery. Carotid endarterectomy was performed. She presented with hoarseness of voice and choking on drinking water. Which of the following is most likely cause of her symptoms?",
         "a": "Hypoglossal nerve injury",
         "b": "Glossopharyngeal nerve injury",
         "c": "Superior laryngeal nerve injury",
@@ -1420,7 +1420,7 @@
         "correct": "E",
         "explanation": "Recurrent laryngeal nerve is outside the surgical field, while the vagus nerve is actually inside the carotid sheath",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
@@ -1437,7 +1437,7 @@
         "correct": "C",
         "explanation": "Memorize 100U/kg",
         "subject": "Surgery",
-        "topic": "",
+        "topic": "Surgery",
         "tags": [
             "surgery",
             "multiple choice"
