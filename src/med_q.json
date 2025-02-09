@@ -51,14 +51,14 @@
         "questionID": 3
     },
     "4": {
-        "question": "Patient on ARB. poorly controlled HT despite increase in dose of ARB. Which drug is likely the",
+        "question": "Patient on ARB. poorly controlled HT despite increase in dose of ARB. Which drug is likely the cause?",
         "a": "Fluconazole",
         "b": "Erythromycin",
         "c": "Acetaminophen",
         "d": "MAOI",
         "e": "",
         "correct": "A",
-        "explanation": "cause?  pparently A, but online said will increase effect of Losartan Fluconazole (Diflucan) is a potent CYP2C9 inhibitor, impairing the conversion of losartan (Cozaar) to its active form. _",
+        "explanation": "Apparently A, but online said will increase effect of Losartan Fluconazole (Diflucan) is a potent CYP2C9 inhibitor, impairing the conversion of losartan (Cozaar) to its active form. _",
         "subject": "Medical",
         "topic": "General Medicine",
         "tags": [
@@ -1596,5 +1596,22 @@
             "multiple choice"
         ],
         "questionID": 96
+    },
+    "97": {
+        "question": "An old man complains chest pain started 2 hours ago while jogging. Pain lasted for 30 minutes. Hypotension and bradycardia. CXR was clear. ECG right-sided V4 and V5 showed ST elevation. Swan-Ganz finding RA pressure high, pulmonary artery pressure normal, pulmonary wedge pressure normal.",
+        "a": "Anterior MI",
+        "b": "RV MI",
+        "c": "MV Regurgitation",
+        "d": "Lateral MI",
+        "e": "Septal MI",
+        "correct": "B",
+        "explanation": "RV failure leading to pressure building in RA, but not in pulmonary artery or wedge pressure.",
+        "subject": "Medical",
+        "topic": "General Medicine",
+        "tags": [
+            "medicine",
+            "multiple choice"
+        ],
+        "questionID": 97
     }
 }
